@@ -1,0 +1,191 @@
+[
+    {
+        "Nomor": 1,
+        "Judul": "Langkah Mudah Belajar Analisis Data dengan Python untuk Pemula",
+        "Penulis": "Randi Adrika Putra",
+        "Tahun": 2024,
+        "Penerbit": "PT. Anak Hebat Indonesia",
+        "Jumlah": 206,
+        "ISBN": "978-623-164-617-0"
+    },
+    {
+        "Nomor": 2,
+        "Judul": "HTML, PHP & MySQL untuk Pemula",
+        "Penulis": "Jubilee Enterprise",
+        "Tahun": 2018,
+        "Penerbit": "PT Elex Media Komputindo",
+        "Jumlah": 200,
+        "ISBN": "978-602-048-622-2"
+    },
+    {
+        "Nomor": 3,
+        "Judul": "Membangun Aplikasi Berbasis Data dengan Python",
+        "Penulis": "Jubilee Enterprise",
+        "Tahun": 2022,
+        "Penerbit": "PT Elex Media Komputindo",
+        "Jumlah": 232,
+        "ISBN": "978-623-003-562-3"
+    },
+    {
+        "Nomor": 4,
+        "Judul": "Modul Pemrograman Web Edisi Keempat",
+        "Penulis": "Budi Raharjo",
+        "Tahun": 2018,
+        "Penerbit": "Modula",
+        "Jumlah": 616,
+        "ISBN": "978-602-8759-45-8"
+    },
+    {
+        "Nomor": 5,
+        "Judul": "Membangun Object Oriented Software dengan Java dan Object Database",
+        "Penulis": "Djon Irwanto S.Kom., MM",
+        "Tahun": 2007,
+        "Penerbit": "PT. Elex Media Komputindo",
+        "Jumlah": 284,
+        "ISBN": "978-979-27-1477-7"
+    },
+    {
+        "Nomor": 6,
+        "Judul": "Gampang Menguasai Microsoft PowerPoint 2010",
+        "Penulis": "Dyah Istiana dan Mardiana Wati",
+        "Tahun": 2010,
+        "Penerbit": "CV. Yrama Widya",
+        "Jumlah": 206,
+        "ISBN": "978-979-077-218-2"
+    },
+    {
+        "Nomor": 7,
+        "Judul": "Strategi Jitu Beriklan di Google, YouTube, Email, dan Facebook",
+        "Penulis": "Jubilee Enterprise",
+        "Tahun": 2021,
+        "Penerbit": "PT. Elex Media Komputindo",
+        "Jumlah": 226,
+        "ISBN": "978-623-00-2932-5"
+    },
+    {
+        "Nomor": 8,
+        "Judul": "Network: Tweaking dan Hacking",
+        "Penulis": "Efvy Zam",
+        "Tahun": 2019,
+        "Penerbit": "PT. Elex Media Komputindo",
+        "Jumlah": 204,
+        "ISBN": "978-602-04-9708-2"
+    },
+    {
+        "Nomor": 9,
+        "Judul": "Akses Internet dengan Komputer dan HP",
+        "Penulis": "Vivi Herlina",
+        "Tahun": 2008,
+        "Penerbit": "CV. Yrama Widya",
+        "Jumlah": 144,
+        "ISBN": "979-543-477-2"
+    },
+    {
+        "Nomor": 10,
+        "Judul": "Fundamental of Python for Machine Learning",
+        "Penulis": "Teguh Wahyono",
+        "Tahun": 2018,
+        "Penerbit": "Gava Media",
+        "Jumlah": 150,
+        "ISBN": "978-602-5568-40-4"
+    },
+    {
+        "Nomor": 11,
+        "Judul": "Desain Grafis dengan Canva untuk Pemula",
+        "Penulis": "Jubilee Enterprise",
+        "Tahun": 2021,
+        "Penerbit": "PT Elex Media Komputindo",
+        "Jumlah": 188,
+        "ISBN": "978-623-002-771-0"
+    },
+    {
+        "Nomor": 12,
+        "Judul": "HTML, PHP & MySQL untuk Pemula",
+        "Penulis": "Eva Riyanty Lubis",
+        "Tahun": 2024,
+        "Penerbit": "PT. Anak Hebat Indonesia",
+        "Jumlah": 190,
+        "ISBN": "978-623-164-991-1"
+    },
+    {
+        "Nomor": 13,
+        "Judul": "Kumpulan Program Antivirus dan Firewall Free dan Open Source",
+        "Penulis": "Efisitek.com",
+        "Tahun": 2008,
+        "Penerbit": "Yrama Widya",
+        "Jumlah": 200,
+        "ISBN": "978-979-543-557-0"
+    },
+    {
+        "Nomor": 14,
+        "Judul": "Modul Pembelajaran Struktur Data",
+        "Penulis": "Rosa A. S., M. Shalahuddin",
+        "Tahun": 2010,
+        "Penerbit": "Modula",
+        "Jumlah": 312,
+        "ISBN": "978-602-8759-08-3"
+    },
+    {
+        "Nomor": 15,
+        "Judul": "Bedah Aplikasi Canva (Strategi dan Teknik Desain)",
+        "Penulis": "Izza Fauzia, S.Pd., Desma Linda, S.Pd., dkk.",
+        "Tahun": 2024,
+        "Penerbit": "Penamuda Media",
+        "Jumlah": 141,
+        "ISBN": "978-623-8586-48-6"
+    },
+    {
+        "Nomor": 16,
+        "Judul": "Langkah Mudah Belajar Pemrograman Web dengan HTML, CSS & JavaScript untuk Pemula",
+        "Penulis": "Ahmad Istakim A.Md.Kom., S.Kom.",
+        "Tahun": 2024,
+        "Penerbit": "Anak Hebat Indonesia",
+        "Jumlah": 200,
+        "ISBN": "978-623-164-931-7"
+    },
+    {
+        "Nomor": 17,
+        "Judul": "Pengantar Jaringan Komputer",
+        "Penulis": "Melwin Syafrizal",
+        "Tahun": 2020,
+        "Penerbit": "Andi",
+        "Jumlah": 288,
+        "ISBN": "979-763-003-X"
+    },
+    {
+        "Nomor": 18,
+        "Judul": "Pemrograman Web dengan Node.JS dan JavaScript",
+        "Penulis": "Budi Raharjo",
+        "Tahun": 2019,
+        "Penerbit": "Informatika",
+        "Jumlah": 292,
+        "ISBN": "978-623-7131-02-1"
+    },
+    {
+        "Nomor": 19,
+        "Judul": "Belajar Desain Grafis untuk Pemula",
+        "Penulis": "Herdina Primasanti",
+        "Tahun": 2023,
+        "Penerbit": "Anak Hebat Indonesia",
+        "Jumlah": 212,
+        "ISBN": "978-623-164-100-7"
+    },
+    {
+        "Nomor": 20,
+        "Judul": "HTML, PHP, & MySQL untuk Pemula",
+        "Penulis": "Eva Riyanty Lubis",
+        "Tahun": 2024,
+        "Penerbit": "Anak Hebat Indonesia",
+        "Jumlah": 192,
+        "ISBN": "978-623-991-1"
+    },
+    {
+        "Nomor": 21,
+        "Judul": "Panduan Mudah Membuat Diskless System",
+        "Penulis": "Rusmanto, R. Kresno Aji",
+        "Tahun": 2024,
+        "Penerbit": "Dian Rakyat",
+        "Jumlah": 189,
+        "ISBN": "979-523-645-8"
+    }
+]
