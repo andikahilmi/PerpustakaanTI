@@ -64,9 +64,24 @@ def display_book(book):
     st.write(f"**ISBN**: {book.get('ISBN', 'N/A')}")
     st.write("---")  # Garis pembatas antar buku
 
+# Fungsi login
+def login_page():
+    st.title("Login")
+    username = st.text_input("Username")
+    password = st.text_input("Password", type="password")
+    if st.button("Login"):
+        # Verifikasi username dan password
+        if username == "admin" and password == "admin":
+            st.session_state["logged_in"] = True
+            st.success("Login berhasil!")
+        else:
+            st.error("Username atau password salah.")
+
 # Fungsi utama aplikasi Streamlit
 def main():
     st.title("- Perpustakaan Jurusan Elektro - Prodi Teknik Informatika")
+    # Menambahkan gambar di atas judul
+    st.image("gambar.png", caption="Logo Perpustakaan", use_container_width=True)
     
     # Memuat data buku
     books = load_books()
@@ -77,15 +92,24 @@ def main():
 
     if choice == "Cari Buku":
         st.subheader("Cari Buku")
-        search_query = st.text_input("Masukkan Judul Buku:")
-        if search_query:
-            # Pencarian buku
-            results = [book for book in books if search_query.lower() in book["Judul"].lower()]
-            if results:
-                for book in results:
-                    display_book(book)
-            else:
-                st.warning("Buku tidak ditemukan.")
+
+        # Input pencarian tunggal
+    search_query = st.text_input("Masukkan kata kunci (Judul, Penulis, atau Tahun Terbit):")
+
+    if search_query:
+        # Pencarian buku
+        results = [
+            book for book in books
+            if search_query.lower() in book["Judul"].lower() or
+               search_query.lower() in book["Penulis"].lower() or
+               search_query == str(book["Tahun"])
+        ]
+
+        if results:
+            for book in results:
+                display_book(book)
+        else:
+            st.warning("Buku tidak ditemukan.")
 
     elif choice == "Tampilkan Semua Buku":
         st.subheader("Semua Buku")
@@ -96,7 +120,14 @@ def main():
             st.warning("Tidak ada data buku yang tersedia.")
 
 # Menjalankan aplikasi
-if __name__ == "__main__":
-    main()
+#if __name__ == "__main__":
+#    main()
+if "logged_in" not in st.session_state:
+    st.session_state["logged_in"] = False
+
+if st.session_state["logged_in"]:
+    main ()
+else:
+    login_page()
 
 
