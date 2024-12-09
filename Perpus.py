@@ -41,7 +41,7 @@ def login_page():
 def main():
     st.title("- Perpustakaan Jurusan Elektro - Prodi Teknik Informatika")
     # Menambahkan gambar di atas judul
-    st.image("gambar.png", caption="Logo Perpustakaan", use_container_width=True)
+    #st.image("gambar.png", caption="Logo Perpustakaan", use_container_width=True)
     
     # Memuat data buku
     books = load_books()
