@@ -1,43 +1,3 @@
-'''import streamlit as st
-import json
-
-# Fungsi untuk membaca data dari file JSON
-def load_books():
-    with open("buku.json", "r") as file:
-        return json.load(file)
-
-# Fungsi utama aplikasi Streamlit
-def main():
-    st.title("- Perpustakaan Jurusan Elektro - Prodi Teknik Informatika")
-    
-    # Memuat data buku
-    books = load_books()
-
-    # Menu aplikasi
-    menu = ["Cari Buku", "Tampilkan Semua Buku"]
-    choice = st.sidebar.selectbox("Pilih Menu", menu)
-
-    if choice == "Cari Buku":
-        st.subheader("Cari Buku")
-        search_query = st.text_input("Masukkan Judul Buku:")
-        if search_query:
-            # Pencarian buku
-            results = [book for book in books if search_query.lower() in book["Judul"].lower()]
-            if results:
-                for book in results:
-                    st.write(book)
-            else:
-                st.warning("Buku tidak ditemukan.")
-
-    elif choice == "Tampilkan Semua Buku":
-        st.subheader("Semua Buku")
-        for book in books:
-            st.write(book)
-
-# Menjalankan aplikasi
-if __name__ == "__main__":
-    main()'''
-
 import streamlit as st
 import json
 
@@ -129,5 +89,4 @@ if st.session_state["logged_in"]:
     main ()
 else:
     login_page()
-
 
