@@ -36,6 +36,8 @@ def login_page():
             st.success("Login berhasil!")
         else:
             st.error("Username atau password salah.")
+    else:
+         st.error("Harap isi semua kolom Dan Klik 2x Tombol Login.")
 
 # Fungsi utama aplikasi Streamlit
 def main():
