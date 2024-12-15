@@ -13,6 +13,15 @@ def load_books():
         st.error("Format file JSON tidak valid.")
         return []
 
+#new
+# Fungsi untuk menyimpan buku baru ke file JSON
+def save_book(new_book):
+    books = load_books()
+    books.append(new_book)
+    with open("buku.json", "w") as file:
+        json.dump(books, file, indent=4)
+    st.success("Buku berhasil ditambahkan!")
+    
 # Fungsi untuk menampilkan informasi buku dengan format rapi
 def display_book(book):
     st.write(f"**Judul**: {book.get('Judul', 'N/A')}")
