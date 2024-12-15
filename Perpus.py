@@ -58,7 +58,7 @@ def main():
     books = load_books()
 
     # Menu aplikasi
-    menu = ["Cari Buku", "Tampilkan Semua Buku", "Tentang Aplikasi", "Tim Penyusun"]
+    menu = ["Cari Buku", "Tampilkan Semua Buku","Tambah Buku", "Tentang Aplikasi", "Tim Penyusun"]
     choice = st.sidebar.radio("Pilih Menu", menu)
 
     search_query = ""
@@ -101,6 +101,34 @@ def main():
                 display_book(book)
         else:
             st.warning("Tidak ada data buku yang tersedia.")
+    #new
+    elif choice == "Tambah Buku":
+        st.subheader("Tambah Buku Baru")
+
+        judul = st.text_input("Judul")
+        penulis = st.text_input("Penulis")
+        tahun = st.text_input("Tahun Terbit")
+        penerbit = st.text_input("Penerbit")
+        jumlah_halaman = st.number_input("Jumlah Halaman", min_value=1)
+        isbn = st.text_input("ISBN")
+        rak_buku = st.text_input("Rak Buku")
+        nomor = st.text_input("Nomor")
+    
+        if st.button("Simpan Buku"):
+            if judul and penulis and tahun and penerbit:
+                new_book = {
+                    "Judul": judul,
+                    "Penulis": penulis,
+                    "Tahun": tahun,
+                    "Penerbit": penerbit,
+                    "Jumlah Halaman": jumlah_halaman,
+                    "ISBN": isbn,
+                    "Rak Buku": rak_buku,
+                    "Nomor": nomor,
+                }
+                save_book(new_book)
+            else:
+                st.error("Mohon isi semua kolom yang diperlukan.")
     
     elif choice == "Tentang Aplikasi":
         st.subheader("Tentang Aplikasi")
