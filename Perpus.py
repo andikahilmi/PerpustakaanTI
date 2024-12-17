@@ -169,7 +169,7 @@ def main():
         - Muhammad Farel 
         - Siang Nir
         - Saskia Rafina Putri
-        - Tanaya
+        - Tanaya Dzakiyya Isnania
         """)
 
 if "logged_in" not in st.session_state:
