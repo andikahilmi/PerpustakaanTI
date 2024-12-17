@@ -1,5 +1,6 @@
 import streamlit as st
 import json
+import pandas as pd
 
 # Fungsi untuk membaca data dari file JSON
 def load_books():
@@ -83,25 +84,38 @@ def main():
         if search_option:
             search_query = st.text_input(f"Masukkan {search_option}:")
         # Input pencarian tunggal
-    if st.button("Cari Buku"):
-        if search_query:
-        # Pencarian buku berdasarkan opsi
-            if search_option == "Judul":
-                results = [book for book in books if search_query.lower() in book["Judul"].lower()]
-            elif search_option == "Penulis":
-                results = [book for book in books if search_query.lower() in book["Penulis"].lower()]
-            elif search_option == "Tahun Terbit":
-                results = [book for book in books if search_query == str(book["Tahun"])]
+        if st.button("Cari Buku"):
+            if search_query:
+            # Pencarian buku berdasarkan opsi
+                if search_option == "Judul":
+                    results = [book for book in books if search_query.lower() in book["Judul"].lower()]
+                elif search_option == "Penulis":
+                    results = [book for book in books if search_query.lower() in book["Penulis"].lower()]
+                elif search_option == "Tahun Terbit":
+                    results = [book for book in books if search_query == str(book["Tahun"])]
 
-        #Menjumlahkan buku yang di temukan    
-            total_found = len(results)
-            st.write(f"Total buku ditemukan: {total_found}")
+            #Menjumlahkan buku yang di temukan    
+                total_found = len(results)
+                st.write(f"Total buku ditemukan: {total_found}")
 
-            if results:
-                for book in results:
-                    display_book(book)
-            else:
-                st.warning("Buku tidak ditemukan.")
+                # Menampilkan hasil dalam bentuk tabel jika ada hasil
+                if results:
+                # Konversi hasil pencarian menjadi DataFrame pandas
+                    df = pd.DataFrame(results)
+
+                    # Konversi kolom "Tahun" agar tampil tanpa desimal
+                    if "Tahun" in df.columns:
+                        df["Tahun"] = pd.to_numeric(df["Tahun"], errors="coerce").fillna(0).astype(str).replace(0, "")
+
+                    st.table(df)  # Menampilkan dalam bentuk tabel
+                else:
+                    st.warning("Buku tidak ditemukan.")
+
+                #if results:
+                #    for book in results:
+                #        display_book(book)
+                #else:
+                #    st.warning("Buku tidak ditemukan.")
 
     elif choice == "Tampilkan Semua Buku":
         st.subheader("Semua Buku")
