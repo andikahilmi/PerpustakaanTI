@@ -32,7 +32,7 @@ def display_book(book):
     st.write(f"**Jumlah Halaman**: {book.get('Jumlah Halaman', 'N/A')}")
     st.write(f"**ISBN**: {book.get('ISBN', 'N/A')}")
     st.write(f"**Rak Buku**: {book.get('Rak Buku', 'N/A')}")
-    st.write(f"**Nomor**: {book.get('Nomor', 'N/A')}")
+    st.write(f"**Nomor Buku**: {book.get('Nomor Buku', 'N/A')}")
     st.write("---")  # Garis pembatas antar buku
 
 # Fungsi login
