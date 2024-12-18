@@ -106,6 +106,10 @@ def main():
                     # Konversi kolom "Tahun" agar tampil tanpa desimal
                     if "Tahun" in df.columns:
                         df["Tahun"] = pd.to_numeric(df["Tahun"], errors="coerce").fillna(0).astype(str).replace(0, "")
+                    elif "Jumlah Halaman" in df.columns:
+                        df["Jumlah Halaman"] = pd.to_numeric(df["Jumlah Halaman"], errors="coerce").fillna(0).astype(int).replace(0, "")
+                    elif "Nomor Buku" in df.columns:
+                        df["Nomor Buku"] = pd.to_numeric(df["Nomor Buku"], errors="coerce").fillna(0).astype(int).replace(0, "")
 
                     st.table(df)  # Menampilkan dalam bentuk tabel
                 else:
