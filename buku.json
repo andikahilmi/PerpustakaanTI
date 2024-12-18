@@ -1,3062 +1,1992 @@
 [
     {
-        "Judul": "Langkah Mudah Belajar Analisis Data Dengan Python Untuk Pemula",
+        "Judul": "Langkah Mudah Belajar Analisis Data dengan Python untuk Pemula",
         "Penulis": "Randi Adrika Putra",
-        "Tahun": 2024,
-        "Penerbit": "PT. Anak Hebat Indonesia",
+        "Tahun ": 2024,
+        "Penerbit": "Anak Hebat Indonesia",
         "Jumlah Halaman": 206,
         "ISBN": "978-623-164-617-0",
         "Rak Buku": "Teknik Informatika 2024",
-        "Nomor": "01"
+        "Nomor Buku": 1
     },
     {
-        "Judul": "HTML, PHP & Mysql Untuk Pemula",
+        "Judul": "HTML, PHP & MySQL untuk pemula",
         "Penulis": "Jubilee Enterprise",
-        "Tahun": 2018,
-        "Penerbit": "PT Elex Media Komputindo",
+        "Tahun ": 2018,
+        "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 200,
         "ISBN": "978-602-048-622-2",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2024",
+        "Nomor Buku": 2
     },
     {
-        "Judul": "Membangun Aplikasi Berbasis Data Dengan Python",
+        "Judul": "Membangun Aplikasi Berbasis Data dengan Python",
         "Penulis": "Jubilee Enterprise",
-        "Tahun": 2022,
-        "Penerbit": "PT Elex Media Komputindo",
+        "Tahun ": 2022,
+        "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 232,
         "ISBN": "978-623-003-562-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2024",
+        "Nomor Buku": 3
     },
     {
         "Judul": "Modul Pemrograman Web Edisi Keempat",
         "Penulis": "Budi Raharjo",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "Modula",
         "Jumlah Halaman": 616,
         "ISBN": "978-602-8759-45-8",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2024",
+        "Nomor Buku": 4
     },
     {
-        "Judul": "Membangun Object Oriented Software Dengan Java Dan Object Database",
+        "Judul": "Membangun Object Oriented Software dengan Java dan Object Database",
         "Penulis": "Djon Irwanto S.Kom., MM",
-        "Tahun": 2007,
-        "Penerbit": "PT. Elex Media Komputindo",
+        "Tahun ": 2007,
+        "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 284,
         "ISBN": "978-979-27-1477-7",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2024",
+        "Nomor Buku": 5
     },
     {
-        "Judul": "Gampang Menguasai Microsoft Powerpoint 2010",
-        "Penulis": "Dyah Istiana Dan Mardiana Wati",
-        "Tahun": 2010,
-        "Penerbit": "CV. Yrama Widya",
+        "Judul": "Gampang menguasai microsoft powerpoint 2010",
+        "Penulis": "Dyah istiana dan Mardiana wati",
+        "Tahun ": 2010,
+        "Penerbit": "CV. YRAMA WIDYA",
         "Jumlah Halaman": 206,
         "ISBN": "978-979-077-218-2",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2024",
+        "Nomor Buku": 8
     },
     {
-        "Judul": "Strategi Jitu Beriklan Di Google, Youtube, Email, Dan Facebook",
-        "Penulis": "Jubilee Enterprise",
-        "Tahun": 2021,
-        "Penerbit": "PT. Elex Media Komputindo",
+        "Judul": "Strategi Jitu beriklan di google,youtube,email dan facebook",
+        "Penulis": "Jubile Enterprise",
+        "Tahun ": 2021,
+        "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 226,
         "ISBN": "978-623-00-2932-5",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2024",
+        "Nomor Buku": 10
     },
     {
-        "Judul": "Network: Tweaking Dan Hacking",
+        "Judul": "Network:Tweaking dan hacking",
         "Penulis": "Efvy Zam",
-        "Tahun": 2019,
-        "Penerbit": "PT. Elex Media Komputindo",
+        "Tahun ": 2019,
+        "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 204,
         "ISBN": "978-602-04-9708-2",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2024",
+        "Nomor Buku": 9
     },
     {
-        "Judul": "Akses Internet Dengan Komputer Dan HP",
+        "Judul": "Akses internet dengan komputer dan hp",
         "Penulis": "Vivi Herlina",
-        "Tahun": 2008,
-        "Penerbit": "CV. Yrama Widya",
+        "Tahun ": 2008,
+        "Penerbit": "CV. YRAMA WIDYA",
         "Jumlah Halaman": 144,
         "ISBN": "979-543-477-2",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2024",
+        "Nomor Buku": 7
     },
     {
-        "Judul": "Fundamental Of Python For Machine Learning",
+        "Judul": "Fundamental of python for machine learning",
         "Penulis": "Teguh Wahyono",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "Gava Media",
         "Jumlah Halaman": 150,
         "ISBN": "978-602-5568-40-4",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2024",
+        "Nomor Buku": 6
     },
     {
-        "Judul": "Desain Grafis Dengan Canva Untuk Pemula",
+        "Judul": "Desain grafis dengan canva untuk pemula",
         "Penulis": "Jubilee Enterprise",
-        "Tahun": 2021,
-        "Penerbit": "PT Elex Media Komputindo",
+        "Tahun ": 2021,
+        "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 188,
         "ISBN": "978-623-002-771-0",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2024",
+        "Nomor Buku": 11
     },
     {
-        "Judul": "HTML, PHP & Mysql Untuk Pemula",
+        "Judul": "HTML, PHP & MySQL untuk pemula",
         "Penulis": "Eva Riyanty Lubis",
-        "Tahun": 2024,
-        "Penerbit": "PT. Anak Hebat Indonesia",
+        "Tahun ": 2024,
+        "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 190,
         "ISBN": "978-623-164-991-1",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2024",
+        "Nomor Buku": 12
     },
     {
         "Judul": "Kumpulan Program Antivirus Dan Firewall Free Dan Open Source",
-        "Penulis": "Efisitek.Com",
-        "Tahun": 2008,
+        "Penulis": "Efisitek.com",
+        "Tahun ": 2008,
         "Penerbit": "Yrama Widya",
         "Jumlah Halaman": 200,
         "ISBN": "978-979-543-557-0",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2024",
+        "Nomor Buku": 13
     },
     {
         "Judul": "Modul Pembelajaran Struktur Data",
         "Penulis": "Rosa A. S., M. Shalahuddin",
-        "Tahun": 2010,
+        "Tahun ": 2010,
         "Penerbit": "Modula",
         "Jumlah Halaman": 312,
         "ISBN": "978-602-8759-08-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2024",
+        "Nomor Buku": 14
     },
     {
-        "Judul": "Bedah Aplikasi Canva (Strategi Dan Teknik Desain)",
-        "Penulis": "Izza Fauzia, S.Pd., Desma Linda, S.Pd., Dkk.",
-        "Tahun": 2024,
+        "Judul": "Bedah Aplikasi Canva (Strategi dan Teknik Desain)",
+        "Penulis": "Izza Fauzia, S.Pd., Desma Linda, S.Pd., Arie Hendra Saputro, S.Pd., M.M., Nurul DiahRahmadiah, Muhammad Faqih Dzulqarnain, S.T., M.CS.,Lu’lu’ Mudhiah Adila, Ayu Windy Malisa Menno, S.Pd.,Agung Sutiyo Sudrajad, Yanni Irma Waty Simanjuntak, S.Pd.,Suharsono, S.Kom., M.Kom., Bintang Nugraha, S.Pd",
+        "Tahun ": 2024,
         "Penerbit": "Penamuda Media",
         "Jumlah Halaman": 141,
         "ISBN": "978-623-8586-48-6",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2024",
+        "Nomor Buku": 15
     },
     {
-        "Judul": "Langkah Mudah Belajar Pemrograman Web Dengan HTML, CSS & Javascript Untuk Pemula",
+        "Judul": "Langkah Mudah Belajar Pemrograman WEB dengan HTML, CSS & Javascript Untuk Pemula",
         "Penulis": "Ahmad Istakim A.Md.Kom., S.Kom.",
-        "Tahun": 2024,
+        "Tahun ": 2024,
         "Penerbit": "Anak Hebat Indonesia",
         "Jumlah Halaman": 200,
         "ISBN": "978-623-164-931-7",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2024",
+        "Nomor Buku": 16
     },
     {
         "Judul": "Pengantar Jaringan Komputer",
         "Penulis": "Melwin Syafrizal",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "Andi",
         "Jumlah Halaman": 288,
         "ISBN": "979-763-003-X",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2024",
+        "Nomor Buku": 17
     },
     {
-        "Judul": "Pemrograman Web Dengan Node.JS Dan Javascript",
+        "Judul": "Pemrograman Web Dengan Node.JS dan Java Script",
         "Penulis": "Budi Raharjo",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "Informatika",
         "Jumlah Halaman": 292,
         "ISBN": "978-623-7131-02-1",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2024",
+        "Nomor Buku": 18
     },
     {
         "Judul": "Belajar Desain Grafis Untuk Pemula",
         "Penulis": "Herdina Primasanti",
-        "Tahun": 2023,
+        "Tahun ": 2023,
         "Penerbit": "Anak Hebat Indonesia",
         "Jumlah Halaman": 212,
         "ISBN": "978-623-164-100-7",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "HTML, PHP, & Mysql Untuk Pemula",
-        "Penulis": "Eva Riyanty Lubis",
-        "Tahun": 2024,
-        "Penerbit": "Anak Hebat Indonesia",
-        "Jumlah Halaman": 192,
-        "ISBN": "978-623-991-1",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2024",
+        "Nomor Buku": 19
     },
     {
         "Judul": "Panduan Mudah Membuat Diskless System",
-        "Penulis": "Rusmanto, R. Kresno Aji",
-        "Tahun": 2024,
+        "Penulis": "Rusmanto, R.Kresno Aji",
+        "Tahun ": 2024,
         "Penerbit": "Dian Rakyat",
         "Jumlah Halaman": 189,
         "ISBN": "979-523-645-8",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "7 In 1 Pemrograman Web Untuk Pemula",
-        "Penulis": "Rohi Abdulloh",
-        "Tahun": 2018,
-        "Penerbit": "Elex Media Komputindo",
-        "Jumlah": 334,
-        "ISBN": "978-602-04-7943-9",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Buku Sakti Pemrograman Web: HTML, CSS, PHP, MYSQL & Javascript",
-        "Penulis": "Didik Setiawan",
-        "Tahun": 2018,
-        "Penerbit": "Start Up",
-        "Jumlah": 216,
-        "ISBN": "978-602-667-334-3",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Cara Mudah Membuat Komponen Modul Dan Plugin Joomla!",
-        "Penulis": "Wahana Komputer",
-        "Tahun": 2011,
-        "Penerbit": "Mediakita",
-        "Jumlah": 144,
-        "ISBN": "978-979-794-277-9",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Membuat Aplikasi Iot: Internet Of Things",
-        "Penulis": "Hardana S.Kom",
-        "Tahun": 2019,
-        "Penerbit": "Lokomedia",
-        "Jumlah": 138,
-        "ISBN": "978-602-623-124-6",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "111 Kode HTML Untuk Belajar Kilat",
-        "Penulis": "Arista Prasetyo Adi",
-        "Tahun": 2019,
-        "Penerbit": "Elex Media Komputindo",
-        "Jumlah": 176,
-        "ISBN": "978-602-049-686-3",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "108 Tips Mengoptimalkan Ponsel Android",
-        "Penulis": "Andy Krisianto, St.",
-        "Tahun": 2018,
-        "Penerbit": "Elex Media Komputindo",
-        "Jumlah": 112,
-        "ISBN": "978-602-048-638-3",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Solusi Cepat Bisa Microsoft Office 2016",
-        "Penulis": "Alfa Hartoko",
-        "Tahun": 2019,
-        "Penerbit": "Elex Media Komputindo",
-        "Jumlah": 252,
-        "ISBN": "978-602-049-811-9",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Otodidak MS Office 2016",
-        "Penulis": "Jubilee Enterprise",
-        "Tahun": 2018,
-        "Penerbit": "Elex Media Komputindo",
-        "Jumlah": 188,
-        "ISBN": "978-602-045-165-7",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Jurus Rahasia Menguasai Pemrograman Android",
-        "Penulis": "Muhammad Nurhidayat",
-        "Tahun": 2019,
-        "Penerbit": "Elex Media Komputindo",
-        "Jumlah": 250,
-        "ISBN": "978-602-046-168-7",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Otomatisasi Administrasi Jaringan Dengan Script Python",
-        "Penulis": "Ahmad Rosid Komarudin",
-        "Tahun": 2018,
-        "Penerbit": "Jasakom",
-        "Jumlah": 137,
-        "ISBN": "978-602-082-329-4",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Vlookup Dan Hlookup Ms Excel Untuk Pemula",
-        "Penulis": "Jubilee Enterprise",
-        "Tahun": 2019,
-        "Penerbit": "Elex Media Komputindo",
-        "Jumlah": 190,
-        "ISBN": "978-602-04-9787-7",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Python Untuk Programmer Pemula",
-        "Penulis": "Jubilee Enterprise",
-        "Tahun": 2019,
-        "Penerbit": "Elex Media Komputindo",
-        "Jumlah": 190,
-        "ISBN": "978-602-0-9689-4",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Coding Mudah Dengan Codeigniter, Jquery, Bootstrap, Dan Datatable",
-        "Penulis": "Heru Sulistiono, S.Kom., M.Kom.",
-        "Tahun": 2018,
-        "Penerbit": "Elex Media Komputindo",
-        "Jumlah": 212,
-        "ISBN": "978-602-04-7688-9",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Pemrograman Aplikasi Android Dengan Android Studio, Photoshop, Dan Audition",
-        "Penulis": "Herlinah, Musliadi",
-        "Tahun": 2019,
-        "Penerbit": "Elex Media Komputindo",
-        "Jumlah": 290,
-        "ISBN": "978-623-000-213-7",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Membangun Aplikasi Dengan PHP, Codeigniter, Dan Ajax",
-        "Penulis": "Uus Rusmawan",
-        "Tahun": 2018,
-        "Penerbit": "Elex Media Komputindo",
-        "Jumlah": 200,
-        "ISBN": "978-602-048-600-0",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Membuat Web Mobile Untuk Orang Awam",
-        "Penulis": "Imam Mulhim",
-        "Tahun": 2014,
-        "Penerbit": "Maxikom",
-        "Jumlah": 162,
-        "ISBN": "978-602-7680-68-5",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Mikrotik Kung Fu : Kitab 1 (Edisi 2019)",
-        "Penulis": "Rendra Towidjojo",
-        "Tahun": 2019,
-        "Penerbit": "Jasakom",
-        "Jumlah": 192,
-        "ISBN": "978-602-082-333-1",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Koleksi Program Web Java",
-        "Penulis": "Ir.Yuniar Supardi",
-        "Tahun": 2019,
-        "Penerbit": "Elex Media Komputindo",
-        "Jumlah": 280,
-        "ISBN": "978-602-049-653-5",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Membuat Aplikasi Mobile Native Dengan Javascript By Nativescript",
-        "Penulis": "Kang Cahya",
-        "Tahun": 2018,
-        "Penerbit": "Lokomedia",
-        "Jumlah": 116,
-        "ISBN": "978-602-623-117-8",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Buku Pintar Aplikasi SMS Dengan PHP Dan Mysql",
-        "Penulis": "Frangky Rawung",
-        "Tahun": 2017,
-        "Penerbit": "Gava Media",
-        "Jumlah": 124,
-        "ISBN": "978-602-694-887-8",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Ragam Tutorial Desain Grafis Bagi Pemula",
-        "Penulis": "Lea Willsen",
-        "Tahun": 2018,
-        "Penerbit": "Elex Media Komputindo",
-        "Jumlah": 224,
-        "ISBN": "978-602-047-796-1",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Mengupas Kedahsyatan Array Formula Ctrl+Shift+Enter (CSE) Microsoft Excel",
-        "Penulis": "Johar Arifin",
-        "Tahun": 2017,
-        "Penerbit": "Elex Media Komputindo",
-        "Jumlah": 192,
-        "ISBN": "978-602-043-143-7",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Python Untuk Membuat Game Hingga Face Detector",
-        "Penulis": "Jubilee Enterprise",
-        "Tahun": 2020,
-        "Penerbit": "Elex Media Komputindo",
-        "Jumlah": 198,
-        "ISBN": "978-623-00-1502-1",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2024",
+        "Nomor Buku": 21
     },
     {
         "Judul": "Pemrograman C & C++",
         "Penulis": "Adam Mukharil Bachtiar",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "Informatika Bandung",
         "Jumlah Halaman": 290,
         "ISBN": "978-602-6232-79-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2024",
+        "Nomor Buku": 28
     },
     {
-        "Judul": "Data Mining Dan Machine Learning Menggunakan Matlab Dan Python",
-        "Penulis": "Rahmadya Trias Handayanto Dan Herlawati",
-        "Tahun": 2020,
+        "Judul": "Data Mining dan Machine Learning menggunakan Matlab dan Python",
+        "Penulis": "Rahmadya Trias Handayanto dan Herlawati",
+        "Tahun ": 2020,
         "Penerbit": "Informatika Bandung",
         "Jumlah Halaman": 314,
         "ISBN": "978-623-7131-32-8",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 46
     },
     {
-        "Judul": "Membuat Augment Reality Skala Proyek Dan Skripsi",
-        "Penulis": "Dhani Ariatmanto,M.Kom Dan Dhanny Rizky Prada Dakhrisman,S.Kom",
-        "Tahun": 2023,
+        "Judul": "Membuat Augment Reality Skala Proyek dan Skripsi",
+        "Penulis": "Dhani Ariatmanto,M.Kom dan Dhanny Rizky Prada Dakhrisman,S.Kom",
+        "Tahun ": 2023,
         "Penerbit": "Penerbit Andi",
         "Jumlah Halaman": 122,
         "ISBN": "978-623-01-3108-0",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 47
     },
     {
-        "Judul": "Internet Of Things (Iot)",
-        "Penulis": "Nurhidayati Dan Prof. Richardus Eko Indrajit",
-        "Tahun": 2022,
+        "Judul": "Internet of Things (IoT)",
+        "Penulis": "Nurhidayati dan Prof. Richardus Eko Indrajit",
+        "Tahun ": 2022,
         "Penerbit": "Penerbit Andi",
         "Jumlah Halaman": 114,
         "ISBN": "978-623-01-2631-4",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 188
     },
     {
-        "Judul": "Buku Pintar Desain Grafis Untuk Pemula",
+        "Judul": "Buku Pintar Desain Grafis untuk pemula",
         "Penulis": "Asep Effendhy",
-        "Tahun": 2014,
+        "Tahun ": 2014,
         "Penerbit": "Mediakita",
         "Jumlah Halaman": 447,
         "ISBN": "979-794-449-2",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 119
     },
     {
-        "Judul": "Mengatasi Error Saat Bekerja Di Excel",
-        "Penulis": "Cristopher Lee",
-        "Tahun": 2011,
+        "Judul": "Mengatasi Error saat bekerja di Excel",
+        "Penulis": "Cristopher lee",
+        "Tahun ": 2011,
         "Penerbit": "Mediakita",
         "Jumlah Halaman": 127,
         "ISBN": "979-794-326-7",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 116
     },
     {
-        "Judul": "Program Absensi Siswa Realtime Dengan PHP Dan SMS Gateway",
+        "Judul": "Program Absensi siswa realtime dengan PHP dan SMS gateway",
         "Penulis": "Aminudin",
-        "Tahun": 2014,
+        "Tahun ": 2014,
         "Penerbit": "Lokomedia",
         "Jumlah Halaman": 111,
         "ISBN": "978-602-14306-9-9",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 118
     },
     {
-        "Judul": "Pengenalan Machine Learning Dengan Python",
-        "Penulis": "Dios Kurniawan,Msc",
-        "Tahun": 2020,
+        "Judul": "Pengenalan Machine Learning dengan Python",
+        "Penulis": "Dios Kurniawan,MSc",
+        "Tahun ": 2020,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 290,
         "ISBN": "978-623-00-2174-9",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Buku Sakti Pemrograman Web",
-        "Penulis": "Mundzir MF",
-        "Tahun": 2018,
-        "Penerbit": "Anak Hebat Indonesia",
-        "Jumlah Halaman": 222,
-        "ISBN": "978-602-5907-63-0",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 101
     },
     {
         "Judul": "Mahir Power Point Animasi Pembelajaran",
-        "Penulis": "Dina Damayanti,S.Kom , Valerian Ezra Vyanza,S.T Dan Dr.Eko Suhartono,Drs.M.Si",
-        "Tahun": 2022,
+        "Penulis": "Dina Damayanti,S.Kom , Valerian Ezra Vyanza,S.T dan Dr.Eko Suhartono,Drs.M.Si",
+        "Tahun ": 2022,
         "Penerbit": "Gosyen Publishing",
         "Jumlah Halaman": 131,
         "ISBN": "978-623-6913-08-6",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 54
     },
     {
         "Judul": "Mudah Menjadi Programmer PHP",
         "Penulis": "Abdul Kadir",
-        "Tahun": 2009,
+        "Tahun ": 2009,
         "Penerbit": "Penerbit Andi",
         "Jumlah Halaman": 282,
         "ISBN": "978-979-29-0870-1",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 122
     },
     {
-        "Judul": "The Secret Of Coreldraw",
-        "Penulis": "Madcoms",
-        "Tahun": 2014,
-        "Penerbit": "Penerbit Andi",
-        "Jumlah Halaman": 256,
-        "ISBN": "978-979-29-4361-0",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Pemrograman Android Dengan Android Studio IDE",
-        "Penulis": "Seng Hansun,S.SI.,M.Sc. , Marcel Bonar Kristanda,S.Kom.,M.Sc Dan Michael Wijaya Saputra,S.Kom.",
-        "Tahun": 2018,
+        "Judul": "Pemrograman Android dengan Android Studio IDE",
+        "Penulis": "Seng Hansun,S.SI.,M.Sc. , Marcel Bonar Kristanda,S.Kom.,M.Sc dan Michael Wijaya Saputra,S.Kom.",
+        "Tahun ": 2018,
         "Penerbit": "Penerbit Andi",
         "Jumlah Halaman": 350,
         "ISBN": "978-979--29-6094-5",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 124
     },
     {
-        "Judul": "Mudah & Cepat Membuat Program Skripsi Dan TA Dengan Python",
+        "Judul": "Mudah & Cepat membuat program Skripsi dan TA dengan Python",
         "Penulis": "Ir. Yuniar Supardi",
-        "Tahun": 2021,
+        "Tahun ": 2021,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 222,
         "ISBN": "978-623-00-2676-8",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 58
     },
     {
-        "Judul": "Tutorial 10 Hari:Membangun Aplikasi Database Dengan Visual Basic.Net",
+        "Judul": "Tutorial 10 Hari:Membangun Aplikasi Database dengan Visual Basic.net",
         "Penulis": "Theresia Ari Prabawati",
-        "Tahun": 2007,
+        "Tahun ": 2007,
         "Penerbit": "Penerbit Andi",
         "Jumlah Halaman": 370,
         "ISBN": "978-979-29-0226-6",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 121
     },
     {
-        "Judul": "Pemrograman Database Dengan Python Dan Mysql",
-        "Penulis": "Jubile Enterprise",
-        "Tahun": 2018,
-        "Penerbit": "PT Elex Media Komputido",
-        "Jumlah Halaman": 176,
-        "ISBN": "978-602-04-5574-7",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Create Your Own Android Application",
-        "Penulis": "Nadia Firly",
-        "Tahun": 2018,
-        "Penerbit": "PT Elex Media Komputido",
-        "Jumlah Halaman": 189,
-        "Isbn": "978-602-04--6024-6",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Rekayasa Perangkat Lunak Berorientasi Objek Dengan Menggunakan PHP",
-        "Penulis": "Prof.Dr.Ir.Riri Fitri Sari,M.M.,M.Sc.,DTM,SMIEE. Dan Ardiati Utami S",
-        "Tahun": 2021,
+        "Judul": "Rekayasa Perangkat Lunak berorientasi objek dengan menggunakan PHP",
+        "Penulis": "Prof.Dr.Ir.Riri Fitri Sari,M.M.,M.Sc.,DTM,SMIEE. dan Ardiati Utami S",
+        "Tahun ": 2021,
         "Penerbit": "Penerbit Andi",
         "Jumlah Halaman": 290,
-        "Isbn": "978-623--01-1788-6",
-        "Rak Buku": "",
-        "Nomor": ""
+        "ISBN": "978-623--01-1788-6",
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 119
     },
     {
-        "Judul": "Fun Coding With Micropython",
+        "Judul": "Fun Coding With MicroPython",
         "Penulis": "Andi Dinata",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 230,
-        "Isbn": "978-602-0488-24-0",
-        "Rak Buku": "",
-        "Nomor": ""
+        "ISBN": "978-602-0488-24-0",
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 122
     },
     {
-        "Judul": "Belajar Sendiri Adobe Premiere CC 2019",
+        "Judul": "Belajar sendiri Adobe Premiere CC 2019",
         "Penulis": "Jubilee Enterprise",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 214,
-        "Isbn": "978-602-04-9594-1",
-        "Rak Buku": "",
-        "Nomor": ""
+        "ISBN": "978-602-04-9594-1",
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 123
     },
     {
         "Judul": "Joomla 1.7 Cara Instan Membuat Website",
         "Penulis": "Adi Baskoro",
-        "Tahun": 2011,
+        "Tahun ": 2011,
         "Penerbit": "Mediakita",
         "Jumlah Halaman": 189,
-        "Isbn": "979-794-311-9",
-        "Rak Buku": "",
-        "Nomor": ""
+        "ISBN": "979-794-311-9",
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 124
     },
     {
-        "Judul": "Terampil Tanpa Kursus Pemrograman Vb6 Dan Vb Net",
+        "Judul": "Terampil tanpa kursus pemrograman vB6 dan vB Net",
         "Penulis": "Jubilee Enterprise",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 170,
-        "Isbn": "978-602-04-6167-0",
-        "Rak Buku": "",
-        "Nomor": ""
+        "ISBN": "978-602-04-6167-0",
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 7
     },
     {
-        "Judul": "Data Mining Algoritma Dan Implementasi Dengan Pemrograman PHP",
+        "Judul": "Data Mining algoritma dan implementasi dengan pemrograman PHP",
         "Penulis": "Joko Suntoro",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 180,
-        "Isbn": "978-602-04-9881-2",
-        "Rak Buku": "",
-        "Nomor": ""
+        "ISBN": "978-602-04-9881-2",
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 6
     },
     {
-        "Judul": "Dasar Pemrograman 2 Implementasi Menggunakan Java, C++, Matlab Dan Pascal",
-        "Penulis": "Dr. Harwikarya,M.T. , Desi Ramayanti,S.Kom.,M.T. Dan Nur Aini, S.T.,MMSI.",
-        "Tahun": 2017,
+        "Judul": "Dasar pemrograman 2 implementasi menggunakan java, C++, matlab dan pascal",
+        "Penulis": "Dr. Harwikarya,M.T. , Desi Ramayanti,S.Kom.,M.T. dan Nur Aini, S.T.,MMSI.",
+        "Tahun ": 2017,
         "Penerbit": "Penerbit Andi",
         "Jumlah Halaman": 184,
-        "Isbn": "978-979-29-6350-2",
-        "Rak Buku": "",
-        "Nomor": ""
+        "ISBN": "978-979-29-6350-2",
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 1
     },
     {
-        "Judul": "Passive Income Dari Google Adsense",
+        "Judul": "Passive Income dari Google AdSense",
         "Penulis": "Jefferly Helianthusonfri",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 244,
-        "Isbn": "978-602-04-8514-0",
-        "Rak Buku": "",
-        "Nomor": ""
+        "ISBN": "978-602-04-8514-0",
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 5
     },
     {
-        "Judul": "Kalkulus Diferensial & Integral : Teori & Aplikasi",
-        "Penulis": "Dr. Sudaryonomor",
-        "Tahun": 2017,
+        "Judul": "Kalkulus diferensial & integral : Teori & Aplikasi",
+        "Penulis": "Dr. Sudaryono",
+        "Tahun ": 2017,
         "Penerbit": "Kencana",
         "Jumlah Halaman": 190,
-        "Isbn": "978-602-1186-55-8",
-        "Rak Buku": "",
-        "Nomor": ""
+        "ISBN": "978-602-1186-55-8",
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 4
     },
     {
-        "Judul": "Internet Forensics; Investigasi Sumber-Sumber Kejahatan Internet",
+        "Judul": "Internet Forensics; Investigasi sumber-sumber kejahatan internet",
         "Penulis": "Rahmat Rafiudin",
-        "Tahun": 2009,
+        "Tahun ": 2009,
         "Penerbit": "Penerbit Andi",
         "Jumlah Halaman": 182,
-        "Isbn": "978-979-29-0942-5",
-        "Rak Buku": "",
-        "Nomor": ""
+        "ISBN": "978-979-29-0942-5",
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 3
     },
     {
-        "Judul": "Algoritma HSABC Teknik Komputasi Terbaru",
+        "Judul": "Algoritma HSABC Teknik komputasi terbaru",
         "Penulis": "A.N. Afandi",
-        "Tahun": 2015,
+        "Tahun ": 2015,
         "Penerbit": "Graha Ilmu",
         "Jumlah Halaman": 93,
-        "Isbn": "978-602-262-438-7",
-        "Rak Buku": "",
-        "Nomor": ""
+        "ISBN": "978-602-262-438-7",
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 2
     },
     {
-        "Judul": "Buku Sakti Pemrograman Web ; HTML, CSS, PHP, MYSQL & JAVASCRIPT",
-        "Penulis": "Didik Setiawan",
-        "Tahun": 2017,
-        "Penerbit": "Anak Hebat Indonesia",
-        "Jumlah Halaman": 216,
-        "Isbn": "978-602-6673-34-3",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Trik Mudah Membuat CMS Website Dari Nomorl",
+        "Judul": "Trik Mudah Membuat CMS Website dari Nol",
         "Penulis": "Rohi Abdullah",
-        "Tahun": 2016,
+        "Tahun ": 2016,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 238,
-        "Isbn": "978-602-02-9169-7",
-        "Rak Buku": "",
-        "Nomor": ""
+        "ISBN": "978-602-02-9169-7",
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 95
     },
     {
         "Judul": "Panduan Blogging",
         "Penulis": "Jefferly Helianthusonfri",
-        "Tahun": 2017,
+        "Tahun ": 2017,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 256,
-        "Isbn": "978-602-04-0155-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "ISBN": "978-602-04-0155-3",
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 94
     },
     {
-        "Judul": "Fun Coding With Micropython",
-        "Penulis": "Andi Dinata",
-        "Tahun": 2018,
-        "Penerbit": "PT Elex Media Komputido",
-        "Jumlah Halaman": 230,
-        "Isbn": "978-602-0488-24-0",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "The Power Of Corel Draw",
+        "Judul": "The Power of Corel Draw",
         "Penulis": "Arista Prasetyo Adi",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 176,
-        "Isbn": "978-602-04-9569-9",
-        "Rak Buku": "",
-        "Nomor": ""
+        "ISBN": "978-602-04-9569-9",
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 98
     },
     {
         "Judul": "Panduan Praktis Microsoft Word 2019",
-        "Penulis": "Nurika Miftakul Janah Dan Duwi Priyatnomor",
-        "Tahun": 2019,
+        "Penulis": "Nurika Miftakul Janah dan Duwi Priyatno",
+        "Tahun ": 2019,
         "Penerbit": "Penerbit Andi",
         "Jumlah Halaman": 198,
-        "Isbn": "978-979-29-9873-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "ISBN": "978-979-29-9873-3",
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 90
     },
     {
         "Judul": "Teknik Hacking Android",
         "Penulis": "Dedik Kurniawan",
-        "Tahun": 2021,
+        "Tahun ": 2021,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 244,
-        "Isbn": "978-623-00-0097-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "ISBN": "978-623-00-0097-3",
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 91
     },
     {
         "Judul": "Tip & Trik Hacking yang pasti kamu butuhkan",
         "Penulis": "Mundzir MF",
-        "Tahun": 2017,
+        "Tahun ": 2017,
         "Penerbit": "Anak Hebat Indonesia",
         "Jumlah Halaman": 236,
         "ISBN": "978-602-6595-01-0",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 92
     },
     {
         "Judul": "PHP Komplet",
         "Penulis": "Jubilee Enterprise",
-        "Tahun": 2017,
+        "Tahun ": 2017,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 257,
         "ISBN": "978-602-04-2530-6",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 79
     },
     {
         "Judul": "Teknik Penulisan Tugas Akhir dan Skripsi Pemrograman",
         "Penulis": "Uus Rusmawan",
-        "Tahun": 2021,
+        "Tahun ": 2021,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 196,
         "ISBN": "978-602-04-9680-1",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 88
     },
     {
         "Judul": "Belajar Membuat Whiteboard Animation",
         "Penulis": "Jefferly Helianthusonfri",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 200,
         "ISBN": "978-602-04-9805-8",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 89
     },
     {
         "Judul": "Serba Otomatis Membuat Laporan di Word 2016",
         "Penulis": "Abdul Rohman",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 130,
         "ISBN": "978-623-00-0147-5",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 137
     },
     {
         "Judul": "Analisa dan Perancangan Sistem Informasi dengan Codeigniter dan Laravel",
         "Penulis": "Meilan Anastasia Maharani",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "Lokomedia",
         "Jumlah Halaman": 156,
         "ISBN": "978-602-62311-8-5",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 78
     },
     {
         "Judul": "Learn Python in one day and Learn it Well",
         "Penulis": "Jamie Chan",
-        "Tahun": 2017,
+        "Tahun ": 2017,
         "Penerbit": "CreateSpace Independent Publishing Platform",
         "Jumlah Halaman": 176,
         "ISBN": "978-154-648833-0",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 86
     },
     {
         "Judul": "Langsung Bisa Menjadi Master Website Gratis Dalam Hitungan Menit",
         "Penulis": "Master Dukom",
-        "Tahun": 2011,
+        "Tahun ": 2011,
         "Penerbit": "Dokum Publisher",
         "Jumlah Halaman": 120,
         "ISBN": "978-602-9146-08-0",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 87
     },
     {
         "Judul": "Lebih Mahir dengan Microsoft Word 2019",
         "Penulis": "Edi S.Mulyanta dan Joko I. Mumpuni",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "Penerbit Andi",
         "Jumlah Halaman": 224,
         "ISBN": "978-623-01-0339-1",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 138
     },
     {
         "Judul": "Firebase membangun Aplikasi Berbasis Android",
         "Penulis": "Rosyana Fitria Purnomo, Onno W. Purbo dan RZ.Abd. Aziz",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "Penerbit Andi",
         "Jumlah Halaman": 176,
         "ISBN": "978-623-01-0884-6",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2024",
+        "Nomor Buku": 28
     },
     {
         "Judul": "Panduan Kilat Pemrograman PHP , Langsung Bisa ; Panduan menjadi master PHP bagi orang awam",
         "Penulis": "Arista Prasetyo Adi",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 160,
         "ISBN": "978-623-00-1250-1",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 135
     },
     {
         "Judul": "Belajar Coding itu Penting di era Revolusi Industri 4.0",
         "Penulis": "Yeni Mulyani",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "Pustaka Baru Press",
         "Jumlah Halaman": 160,
         "ISBN": "978-602-376-367-2",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 88
     },
     {
         "Judul": "Kinda Advanced Machine Learning Projects",
         "Penulis": "Muhammad Ardi Putra",
-        "Tahun": 2021,
+        "Tahun ": 2021,
         "Penerbit": "Gava Media",
         "Jumlah Halaman": 140,
         "ISBN": "978-623-7498-93-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 127
     },
     {
         "Judul": "Mengupas Kedahsyatan Array Formula Ctrl+Shift+Enter(CSE) Microsoft Excel",
         "Penulis": "Johar Arifin",
-        "Tahun": 2017,
+        "Tahun ": 2017,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 192,
         "ISBN": "978-602-04-3143-7",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 93
     },
     {
         "Judul": "Pengantar Basis Data",
         "Penulis": "Gede Rasben Dantes, Komang Setemen, Ni Wayan Marti, I Ketut Resika Arthana, Kadek Surya Mahedi dan Putu Hendra Suputra",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "RajaGrafindo Persada",
         "Jumlah Halaman": 156,
         "ISBN": "978-602-425-387-5",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 56
     },
     {
         "Judul": "Membuat Aplikasi Android Tanpa Coding",
         "Penulis": "Arista Prasetyo Adi",
-        "Tahun": 2021,
+        "Tahun ": 2021,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 228,
         "ISBN": "978-623-00-2392-7",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 57
     },
     {
-        "Judul": "Perancangan Sistem Informasi dan Aplikasinya",
+        "Judul": "Perancangan Sistem Informasi dan Aplikasi",
         "Penulis": "Andri Kristanto",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "Gava Media",
         "Jumlah Halaman": 181,
         "ISBN": "978-602-5568-28-2",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 55
     },
     {
         "Judul": "Panduan Praktis Membuat Website Gratis",
         "Penulis": "Samja Dipraja, S.Kom",
-        "Tahun": 2013,
+        "Tahun ": 2013,
         "Penerbit": "Pustaka Makmur",
         "Jumlah Halaman": 116,
         "ISBN": "978-602-7639-71-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 97
     },
     {
         "Judul": "Pemrograman Delphi untuk pemula",
         "Penulis": "Jubilee Enterprise",
-        "Tahun": 2017,
+        "Tahun ": 2017,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 104,
         "ISBN": "978-602-04-0093-8",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Inspirasi Codeigniter Return",
-        "Penulis": "Ibnu Syuhada",
-        "Tahun": 2017,
-        "Penerbit": "PT Elex Media Komputido",
-        "Jumlah Halaman": 169,
-        "ISBN": "978-602-04-1276-4",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 98
     },
     {
         "Judul": "Rekayasa Perangkat Lunak Terstruktur Dan Berorientasi Objek",
         "Penulis": "Rosa A. S, dan M. Shalahuddin",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "Informatika Bandung",
         "Jumlah Halaman": 296,
         "ISBN": "978-602-6232-65-6",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 100
     },
     {
         "Judul": "Jago Membuat Website Gratis & Cepat Secara Otodidak",
         "Penulis": "Senja Nilasari",
-        "Tahun": 2014,
+        "Tahun ": 2014,
         "Penerbit": "Dunia Komputer",
         "Jumlah Halaman": 168,
         "ISBN": "978-602-9146-50-9",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 152
     },
     {
         "Judul": "New Concept Hacking",
         "Penulis": "Arya Dipanegara",
-        "Tahun": 2011,
+        "Tahun ": 2011,
         "Penerbit": "Agogos Publishing",
         "Jumlah Halaman": 119,
-        "ISBN": "978-602-9409-19-2",
-        "Rak Buku": "",
-        "Nomor": ""
+        "ISBN": "978-602-9409-06-2",
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 43
     },
     {
         "Judul": "Membuat Website Cantik & Menarik dengan jQuery",
         "Penulis": "Arista Prasetyo Adi",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 180,
         "ISBN": "978-623-00-1150-4",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 150
     },
     {
         "Judul": "Ps Photoshop CC 2017 untuk Pemula",
         "Penulis": "Jubilee Enterprise",
-        "Tahun": 2017,
+        "Tahun ": 2017,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 140,
         "ISBN": "978-602-04-0139-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 104
     },
     {
         "Judul": "Mahir Bahasa Pemrograman PHP",
         "Penulis": "Miftahul Jannah, Sarwandi, Cyber Creative",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 224,
         "ISBN": "978-602-04-9876-8",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 47
     },
     {
         "Judul": "101 Cara Jitu Mendatangkan Trafik Website",
         "Penulis": "Jefferly Helianthusonfri",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 198,
         "ISBN": "978-623-00-1114-6",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 126
     },
     {
         "Judul": "Artificial Intelligence (Searching, Reasoning, Planning, Learning)",
         "Penulis": "Suyanto",
-        "Tahun": 2014,
+        "Tahun ": 2014,
         "Penerbit": "Informatika Bandung",
         "Jumlah Halaman": 276,
         "ISBN": "978-602-1514-44-3",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Belajar Sendiri Mengolah Data dengan Python & Pandas",
-        "Penulis": "Jubilee Enterprise",
-        "Tahun": 2021,
-        "Penerbit": "PT Elex Media Komputido",
-        "Jumlah Halaman": 232,
-        "ISBN": "978-623-00-2621-8",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 130
     },
     {
         "Judul": "Enjoy Flutter",
         "Penulis": "Rizky Syaputra, Ari Ramadhani, Yusmi Putra Wiraganda",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "UdaCoding",
         "Jumlah Halaman": 88,
         "ISBN": "978-623-7181-04-0",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 119
     },
     {
         "Judul": "Machine Learning Tingkat Dasar dan Lanjut",
         "Penulis": "Suyanto",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "Informatika Bandung",
         "Jumlah Halaman": 466,
         "ISBN": "978-602-6232-78-6",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 120
     },
     {
-        "Judul": "Mudah Menguasai Flamework Laravel",
+        "Judul": "Mudah Menguasai Framework Laravel",
         "Penulis": "Yudha Yudhanto dan Helmi Adi Prasetyo",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 246,
         "ISBN": "978-602-04-9892-8",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 134
     },
     {
-        "Judul": "Cloud Computing Manajemen dan Perencanaan Kapasitas",
-        "Penulis": "Riko Herwanto, Onno W.Purbo dan RZ.Abd.Aziz",
-        "Tahun": 2020,
-        "Penerbit": "Penerbit Andi",
-        "Jumlah Halaman": 168,
-        "ISBN": "978-623-01-0881-5",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Judul": "Solusi Pemrograman XML Web series dengan Visual Basic Net",
+        "Penulis": "Mario Hadiwinata",
+        "Tahun ": 2003,
+        "Penerbit": "PT Elex Media Komputido",
+        "Jumlah Halaman": 272,
+        "ISBN": "979-20-4400-0",
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 113
     },
     {
-        "Judul": "Pemrograman Web",
-        "Penulis": "Priyanto Hidayatullah dan Jauhari Khairul Kawistara",
-        "Tahun": 2017,
-        "Penerbit": "Informatika Bandung",
-        "Jumlah Halaman": 454,
-        "ISBN": "978-602-6232-24-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Judul": "Special Project Karakter dan Animasi 3D dengan Studio Max 7",
+        "Penulis": "Arief Ramadhan&Favorisen R. Lumbanraja",
+        "Tahun ": 2006,
+        "Penerbit": "PT Elex Media Komputido",
+        "Jumlah Halaman": 48,
+        "ISBN": "979-20-8232-8",
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 8
     },
     {
         "Judul": "Aplikasi Database dengan SQLite dan PHP 7",
         "Penulis": "Betha Sidik",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "Informatika Bandung",
         "Jumlah Halaman": 308,
         "ISBN": "978-623-7131-33-5",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 122
     },
     {
         "Judul": "Aplikasi Pemrograman WEB Dinamis dengan PHP dan MySQL",
         "Penulis": "Bunafit Nugroho",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "Gava Media",
         "Jumlah Halaman": 554,
         "ISBN": "978-602-5568-41-1",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 121
     },
     {
         "Judul": "Buku Latihan Desain Objek Reflektif dan Transparan dengan 3D Studio Max",
         "Penulis": "Jubilee Enterprise",
-        "Tahun": 2007,
+        "Tahun ": 2007,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 178,
         "ISBN": "978-979-27-0550-8",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 108
     },
     {
         "Judul": "MS Excel 2019 dan 365 untuk Dashboard",
         "Penulis": "Jubilee Enterprise",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 204,
         "ISBN": "978-623-00-0874-0",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 110
     },
     {
         "Judul": "Easy Steps CorelDraw dilengkapi dengan contoh Desain Grafis",
         "Penulis": "Saiful Hadi Arofat",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 196,
         "ISBN": "978-623-00-1349-2",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 109
     },
     {
         "Judul": "Mudah dan Cepat Menguasai Aplikasi Komputer",
         "Penulis": "Bernard Renaldy Suteja, Agus Prijono,dan Christina M. Utami",
-        "Tahun": 2009,
+        "Tahun ": 2009,
         "Penerbit": "Informatika Bandung",
         "Jumlah Halaman": 237,
         "ISBN": "978-979-1153-81-2",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 107
     },
     {
         "Judul": "Buku Sakti HTML, CSS, & Javascript",
         "Penulis": "Adam Saputra, S.Si.",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "Anak Hebat Indonesia",
         "Jumlah Halaman": 270,
         "ISBN": "978-623-7324-51-5",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 106
     },
     {
         "Judul": "Responsive Web Design with Bootstrap",
         "Penulis": "Wahana Komputer",
-        "Tahun": 2016,
+        "Tahun ": 2016,
         "Penerbit": "Penerbit Andi",
         "Jumlah Halaman": 274,
         "ISBN": "978-979-29-5243-8",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 105
     },
     {
         "Judul": "Jurus Rahasia Menguasai Pemrograman Android",
         "Penulis": "Muhammad Nurhidayat",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 250,
         "ISBN": "978-602-04-6168-7",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 154
     },
     {
         "Judul": "Matematika Teknik untuk Politeknik",
         "Penulis": "Suherman, S.Si., M.Si. dan Zamzami, S.T., M.Eng.",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "Penerbit Andi",
         "Jumlah Halaman": 144,
         "ISBN": "978-623-01-0728-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 163
     },
     {
         "Judul": "Perkembangan Teknologi Komunikasi",
         "Penulis": "Nurudin",
-        "Tahun": 2017,
+        "Tahun ": 2017,
         "Penerbit": "RajaGrafindo Persada",
         "Jumlah Halaman": 218,
         "ISBN": "978-602-425-115-4",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 161
     },
     {
         "Judul": "Kolaborasi Laravel dan Database PostgreSQL di Linux",
         "Penulis": "Anton Subagia",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "PT Elex Media Komputido",
         "Jumlah Halaman": 226,
         "ISBN": "978-623-00-0870-2",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 157
     },
     {
         "Judul": "Tip & Trik menjadi Master PHP",
         "Penulis": "Adhi Prasetio",
-        "Tahun": 2011,
+        "Tahun ": 2011,
         "Penerbit": "Mediakita",
         "Jumlah Halaman": 118,
         "ISBN": "979-794-280-5",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 156
     },
     {
         "Judul": "E-Learning Teori dan Aplikasi",
         "Penulis": "Dian Wahyuningsih, M.Pd dan Rakhmat Makmur",
-        "Tahun": 2017,
+        "Tahun ": 2017,
         "Penerbit": "Informatika Bandung",
         "Jumlah Halaman": 184,
         "ISBN": "978-602-6232-28-1",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 155
     },
     {
         "Judul": "Cara Mudah Membuat Media Pembelajaran Menggunakan Adobe Flash Professional CS6",
         "Penulis": "Widada, M.Kom. dan Bekti Wulansari, S.Pd.",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "Gava Media",
         "Jumlah Halaman": 262,
         "ISBN": "978-602-5568-43-5",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 153
     },
     {
         "Judul": "Belajar Kilat Adobe Photoshop Langsung Bisa!",
         "Penulis": "Arista Prasetyo Adi",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 186,
         "ISBN": "978-623-00-0454-4",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 48
     },
     {
         "Judul": "108 Tips Mengoptimalkan Ponsel Andriod",
         "Penulis": "Andy Krisianto",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 102,
         "ISBN": "978-602-04-8638-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 73
     },
     {
         "Judul": "8 Jurus Editing Foto Digital Dengan Adobe Photoshop Cc 2023",
         "Penulis": "Jubilee Enterprise",
-        "Tahun": 2023,
+        "Tahun ": 2023,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 244,
         "ISBN": "978-623-00-4990-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 131
     },
     {
         "Judul": "Desain Situs Keren & Interaktif dengan Photoshop CS6 & Jquery",
         "Penulis": "Jayan",
-        "Tahun": 2021,
+        "Tahun ": 2021,
         "Penerbit": "Maxikom",
         "Jumlah Halaman": 160,
         "ISBN": "978-602-7680-24-1",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2024",
+        "Nomor Buku": 22
     },
     {
         "Judul": "Pemrograman Sistem Pakar : Konsep Dasar dan Aplikasinya Menggunakan Visual Basic 6",
         "Penulis": "Anik Andriyani, M.Kom.",
-        "Tahun": 2016,
+        "Tahun ": 2016,
         "Penerbit": "MediaKom",
         "Jumlah Halaman": 148,
         "ISBN": "978-979-877-472-0",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 104
     },
     {
         "Judul": "Seri Penuntun Praktis : Freehand 8.0",
         "Penulis": "Erry A. Permana",
-        "Tahun": 2001,
+        "Tahun ": 2001,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 206,
         "ISBN": "979-20-2101-9",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 134
     },
     {
         "Judul": "Belajar Otodidak Bahasa Pemrograman SQL menggunakan MariaDB",
         "Penulis": "Randi Adrika Putra",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "Gava Media",
         "Jumlah Halaman": 170,
         "ISBN": "978-623-7498-47-6",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 92
     },
     {
         "Judul": "Pemrograman Web (Edisi Revisi)",
         "Penulis": "Priyanto Hidayatullah, Jauhari Khairul Kawistara",
-        "Tahun": 2017,
+        "Tahun ": 2017,
         "Penerbit": "Informatika",
         "Jumlah Halaman": 454,
         "ISBN": "978-602-6232-24-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 118
     },
     {
         "Judul": "Panduan Praktis Merakit Komputer Secara Otodidak",
         "Penulis": "Taufik Hidayat",
-        "Tahun": 2013,
+        "Tahun ": 2013,
         "Penerbit": "Pustaka Makmur",
         "Jumlah Halaman": 164,
         "ISBN": "978-602-7639-79-9",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Panduan Praktis Membuat Website Gratis",
-        "Penulis": "Samja Dipraja",
-        "Tahun": 2013,
-        "Penerbit": "Pustaka Makmur",
-        "Jumlah Halaman": 116,
-        "ISBN": "978-602-7639-71-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 137
     },
     {
         "Judul": "Mudah Belajar Java (Revisi Kedua)",
         "Penulis": "Budi Raharjo, Imam Heryanto, Arif Haryono",
-        "Tahun": 2012,
+        "Tahun ": 2012,
         "Penerbit": "Informatika",
         "Jumlah Halaman": 428,
         "ISBN": "978-602-8758-76-5",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 139
     },
     {
         "Judul": "Belajar Pemrograman Web untuk Pemula",
         "Penulis": "Kristianto Haryodi",
-        "Tahun": 2024,
+        "Tahun ": 2024,
         "Penerbit": "Anak Hebat Indonesia",
         "Jumlah Halaman": 272,
         "ISBN": "978-623-164-456-5",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 140
     },
     {
         "Judul": "Koleksi Aplikasi Web Laravel",
         "Penulis": "Ir. Yuniar Supardi, Yogi Syarif, S.T., M.KOM, Alfrido Tondi Simbolon, S.T.",
-        "Tahun": 2023,
+        "Tahun ": 2023,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 264,
         "ISBN": "978-623-00-4844-9",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 141
     },
     {
         "Judul": "Gamification: Membuat Belajar Seasyik Bermain Game",
         "Penulis": "Noralia Purwa Yunita, Prof. Richardus Eko Indrajit",
-        "Tahun": 2022,
+        "Tahun ": 2022,
         "Penerbit": "Andi",
         "Jumlah Halaman": 104,
         "ISBN": "978-623-01-2797-7",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 142
     },
     {
         "Judul": "9 Langkah Praktis Membuat Website Gratis",
         "Penulis": "Ricky Rachmanto",
-        "Tahun": 2017,
+        "Tahun ": 2017,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 173,
         "ISBN": "978-602-04-0192-8",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 143
     },
     {
         "Judul": "Kriptografi (Edisi Kedua)",
         "Penulis": "Rinaldi Munir",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "Informatika",
         "Jumlah Halaman": 390,
         "ISBN": "978-623-7131-05-2",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 117
     },
     {
         "Judul": "Buku Sakti Pemrograman Web : HTML, CSS, PHP, MySQL & Javascript",
         "Penulis": "Didik Setiawan",
-        "Tahun": 2017,
+        "Tahun ": 2017,
         "Penerbit": "Anak Hebat Indonesia",
         "Jumlah Halaman": 216,
         "ISBN": "978-602-6673-34-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 86
     },
     {
         "Judul": "Dasar Perancangan dan Implementasi Database Relasional (Edisi Revisi)",
         "Penulis": "Abdul Kadir",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "Andi",
         "Jumlah Halaman": 384,
         "ISBN": "978-623-01-0764-1",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 150
     },
     {
         "Judul": "Koleksi Program Web PHP",
         "Penulis": "Yuniar Supardi, Irwan Kurniawan",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 386,
         "ISBN": "978-623-00-1499-4",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 157
     },
     {
         "Judul": "Belajar Sendiri Mengolah Data Dengan Python & Pandas",
         "Penulis": "Jubilee Enterprise",
-        "Tahun": 2021,
+        "Tahun ": 2021,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 232,
         "ISBN": "978-623-00-2621-8",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 129
     },
     {
         "Judul": "Membuat Sendiri Aplikasi Augmented Reality",
         "Penulis": "Ani Ismayani",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 214,
         "ISBN": "978-623-00-1566-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 149
     },
     {
         "Judul": "Mudah Membuat dan Berbisnis Aplikasi Android dengan Android Studio",
         "Penulis": "Yudha Yudhanto, Ardhi Wijayanto",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 192,
         "ISBN": "978-602-04-5505-1",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 108
     },
     {
         "Judul": "Toko Online Keren Bermodal 300 Ribuan",
         "Penulis": "Arista Prasetyo Adi",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 148,
         "ISBN": "978-623-00-1522-9",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 151
     },
     {
         "Judul": "Otodidak Web Programming: Membuat Website Edutainment",
         "Penulis": "Muhammad Ibnu Sa'ad",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 174,
         "ISBN": 9786230012716,
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 111
     },
     {
         "Judul": "Perancangan Basis Data dalam Teori dan Praktik",
         "Penulis": "Hamim Tohari",
-        "Tahun": 2022,
+        "Tahun ": 2022,
         "Penerbit": "Andi Offset",
         "Jumlah Halaman": 106,
         "ISBN": "978-623-01-2803-5",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 102
     },
     {
         "Judul": "PHP Edisi Lengkap",
         "Penulis": "Jubilee Enterprise",
-        "Tahun": 2022,
+        "Tahun ": 2022,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 344,
         "ISBN": "978-623-00-3040-6",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 113
     },
     {
         "Judul": "Cepat, Praktis, dan Gratis Membuat Website",
         "Penulis": "Jefferly Helianthusonfri",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 200,
         "ISBN": "978-602-04-9586-6",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 114
     },
     {
         "Judul": "Jaringan Nirkabel 5G Berbasis Cloud",
         "Penulis": "Onno W. Purbo, Kurnia Muludi, Tosy Caesar Kurniawan",
-        "Tahun": 2021,
+        "Tahun ": 2021,
         "Penerbit": "Andi Offset",
         "Jumlah Halaman": 112,
         "ISBN": "978-623-01-0880-8",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 118
     },
     {
         "Judul": "Cloud Computing : Manajemen dan Perencanaan Kapasitas",
         "Penulis": "Riko Herwanto, Onno W. Purbo, RZ. Abd. Aziz",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "Andi Offset",
         "Jumlah Halaman": 168,
         "ISBN": "978-623-01-0881-5",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Serba Otomatis Membuat Laporan di Word 2016",
-        "Penulis": "Abdul Rohman",
-        "Tahun": 2019,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 126,
-        "ISBN": "978-623-00-0147-5",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Lebih Mahir dengan Microsoft Word 2019 : Membantu Menulis Dokumen Laporan, Karya Tulis Ilmiah, Skripsi hingga Buku",
-        "Penulis": "Edi S. Mulyanta, Joko I. Mumpuni",
-        "Tahun": 2020,
-        "Penerbit": "Andi",
-        "Jumlah Halaman": 216,
-        "ISBN": "978-623-01-0339-1",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 123
     },
     {
         "Judul": "Tip & Trik Menguasai iPad Untuk Semua Versi",
         "Penulis": "Sudarma S.",
-        "Tahun": 2012,
+        "Tahun ": 2012,
         "Penerbit": "MediaKita",
         "Jumlah Halaman": 148,
         "ISBN": "979-794-337-2",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 139
     },
     {
         "Judul": "Panduan Praktis Dan Jitu Menguasai Framework Laravel 6",
         "Penulis": "Anton Subagia",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "Asfa Solution",
         "Jumlah Halaman": 140,
         "ISBN": "978-623-7156-04-8",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 140
     },
     {
         "Judul": "Buku Buku Ajar Kuliah : Perancangan Basis Data Teori",
         "Penulis": "Suhartini, Andi Christian, Fajriyah",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "Deepublish",
         "Jumlah Halaman": 45,
         "ISBN": "978-623-02-0795-2",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 142
     },
     {
         "Judul": "Panduan Praktis dan Jitu Menguasai Framework Codeigniter 3",
         "Penulis": "Anton Subagia",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "Asfa Solution",
         "Jumlah Halaman": 142,
         "ISBN": "978-602-60915-9-8",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 143
     },
     {
         "Judul": "Membangun Aplikasi Pelayanan Publik Dengan Framework Codeigniter 3",
         "Penulis": "Doni Andriansyah",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "Asfa Solution",
         "Jumlah Halaman": 126,
         "ISBN": "978-623-7156-02-4",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 144
     },
     {
-        "Judul": "Membuat Aplikasi E-Learning dengan PHP-MySQL dan Dreamweaver : Sistem Informasi Pembelajaran Siswa Berbasis Web",
-        "Penulis": "Membuat Aplikasi E-Learning dengan PHP-MySQL dan Dreamweaver : Sistem Informasi Pembelajaran Siswa Berbasis Web",
-        "Tahun": 2017,
+        "Judul": "Membuat Aplikasi E-Learning dengan PHP-MySQL dan Dreamweaver",
+        "Penulis": "Bunafit Nugroho",
+        "Tahun ": 2017,
         "Penerbit": "Gava Media",
         "Jumlah Halaman": 410,
         "ISBN": "978-602-6948-88-5",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 145
     },
     {
         "Judul": "Create Your Own Android Application",
         "Penulis": "Nadia Firly",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 189,
         "ISBN": "978-602-04-6024-6",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 146
     },
     {
         "Judul": "Menciptakan Presentasi Mengagumkan Dengan Microsoft Power Point Anda",
         "Penulis": "Daniel Tirta, S.kom",
-        "Tahun": 2016,
+        "Tahun ": 2016,
         "Penerbit": "Media Cerdas",
         "Jumlah Halaman": 160,
         "ISBN": "978-602-9460-67-4",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 114
     },
     {
         "Judul": "Photoshop Animation Magic",
         "Penulis": "Aditya, ST",
-        "Tahun": 2011,
+        "Tahun ": 2011,
         "Penerbit": "MediaKita",
         "Jumlah Halaman": 108,
         "ISBN": "979-794-276-7",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 115
     },
     {
         "Judul": "Jurus Kilat Jago Bikin Website Joomla!",
         "Penulis": "Abdul Latief",
-        "Tahun": 2010,
+        "Tahun ": 2010,
         "Penerbit": "Dunia Komputer",
         "Jumlah Halaman": 118,
         "ISBN": "978-602-97743-4-4",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 117
     },
     {
         "Judul": "Otodidak MS Excel Untuk Mengelola Data",
         "Penulis": "Jubilee Enterprise",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 194,
         "ISBN": "978-602-04-8672-7",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 120
     },
     {
         "Judul": "Unity Tutorial Game Engine (Edisi Revisi Kedua)",
         "Penulis": "Rickman Roedavan",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "Informatika",
         "Jumlah Halaman": 560,
         "ISBN": "978-602-6232-63-2.",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 151
     },
     {
         "Judul": "Inspirasi Codeigniter Return",
         "Penulis": "Ibnu Syuhada",
-        "Tahun": 2017,
+        "Tahun ": 2017,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 155,
         "ISBN": "978-602-04-1276-4",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 160
     },
     {
         "Judul": "Pemrograman Web Seri PHP",
         "Penulis": "Rizki Hidayatullah",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "Anak Hebat Indonesia",
         "Jumlah Halaman": 222,
         "ISBN": "978-623-24-4281-8",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 106
     },
     {
         "Judul": "Buku Sakti Pemrograman Python : Untuk Mengelola, Menganalisis, dan Memaparkan Data secara Akurat",
         "Penulis": "Adam Saputra, S.Si.",
-        "Tahun": 2022,
+        "Tahun ": 2022,
         "Penerbit": "Anak Hebat Indonesia",
         "Jumlah Halaman": 154,
         "ISBN": "978-623-400-300-0",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 103
     },
     {
         "Judul": "HTML, PHP, dan MySQL untuk Pemula",
         "Penulis": "Jubilee Enterprise.",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 190,
         "ISBN": "978-602-04-8622-2",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 155
     },
     {
         "Judul": "Wordpress Untuk Situs Web Toko Online, Portal Berita, Corporate, Portofolio, & Fotografi",
         "Penulis": "Ali Zaenal",
-        "Tahun": 2012,
+        "Tahun ": 2012,
         "Penerbit": "MediaKita",
         "Jumlah Halaman": 107,
         "ISBN": "979-794-351-8",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 98
     },
     {
         "Judul": "Pemrograman Python Untuk Ilmu Komputer Dan Teknik",
         "Penulis": "Widodo Budiharto",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "Andi Offset",
         "Jumlah Halaman": 168,
         "ISBN": "978-979-29-6618-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 96
     },
     {
-        "Judul": "Belajar Coding Itu Penting di Era Revolusi Industri 4.0",
-        "Penulis": "Yeni Mulyani",
-        "Tahun": 2020,
-        "Penerbit": "Pustaka Baru",
-        "Jumlah Halaman": 160,
-        "ISBN": "978-602-376-367-2",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Judul": "Pemrograman Berbasis Web HTML, PHP 7, MySql, dan Bootstrap 4",
+        "Penulis": "Indra Styawantoro",
+        "Tahun ": 2022,
+        "Penerbit": "Lakeisha",
+        "Jumlah Halaman": 77,
+        "ISBN": "978-623-6948-80-4",
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 8
     },
     {
         "Judul": "Pengantar Logika Informatika. Algoritma dan Pemrograman Komputer",
         "Penulis": "Heri Sismoro",
-        "Tahun": 2005,
+        "Tahun ": 2005,
         "Penerbit": "Andi",
         "Jumlah Halaman": 96,
         "ISBN": "979-763-004-8",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 46
     },
     {
         "Judul": "Buku Statistika Penelitian Dengan SPSS 24",
         "Penulis": "Getut Pramesti",
-        "Tahun": 2017,
+        "Tahun ": 2017,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 163,
         "ISBN": "978-602-04-4911-1",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Jual Buku Sakti Pemrograman Web Seri PHP",
-        "Penulis": "Mundzir MF",
-        "Tahun": 2018,
-        "Penerbit": "Start Up",
-        "Jumlah Halaman": 222,
-        "ISBN": "978-602-5907-63-0",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 180
     },
     {
         "Judul": "Yuk Berbisnis dengan Laravel dan Android",
         "Penulis": "Yudho Yudhanto, Helmi Adi Prasetyo",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 180,
         "ISBN": "978-623-00-0159-8",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 50
     },
     {
         "Judul": "111 Kode HTML untuk Belajar Kilat",
         "Penulis": "Arista Prasetyo Adi",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 164,
         "ISBN": "978-602-04-9686-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 75
     },
     {
         "Judul": "Statistika Lengkap secara Teori dan Aplikasi dengan SPSS 23",
         "Penulis": "Getut Pramesti",
-        "Tahun": 2016,
+        "Tahun ": 2016,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 175,
         "ISBN": "978-602-02-8540-5",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 71
     },
     {
         "Judul": "Aplikasi Face Detector dan Digital Imaging dengan Python : mengenal pemrograman computer vision untuk mendeteksi objek dan digital imaging dengan phyton",
         "Penulis": "Jubilee Enterprise",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 130,
         "ISBN": "978-602-04-5362-0",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 86
     },
     {
         "Judul": "Panduan Cepat SEO untuk Pemula",
         "Penulis": "Arista Prasetyo Adi",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 148,
         "ISBN": "978-623-00-0466-7",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 85
     },
     {
         "Judul": "Text Mining, Analisis Medsos, Kekuatan Brand dan Intelijen di Internet",
         "Penulis": "Onno W. Purbo",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "Andi",
         "Jumlah Halaman": 148,
         "ISBN": "978-979-29-9518-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 84
     },
     {
-        "Judul": "HTML5 dan Javascript untuk Pemula",
+        "Judul": "HTML5 Komplet",
         "Penulis": "Jubilee Enterprise",
-        "Tahun": 2017,
+        "Tahun ": 2017,
         "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 308,
+        "Jumlah Halaman": 176,
         "ISBN": "978-602-04-5083-4",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 83
     },
     {
         "Judul": "The Power Of Owncloud Membangun dan Mengelola Sendiri",
         "Penulis": "Dedy Setyo Afrianto",
-        "Tahun": 2017,
+        "Tahun ": 2017,
         "Penerbit": "Andi",
         "Jumlah Halaman": 146,
         "ISBN": "978-979-29-5852-2",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 82
     },
     {
         "Judul": "Buat Sendiri Desain Kaos Distro dengan Coreldraw Urban Art Expression",
         "Penulis": "Madcoms",
-        "Tahun": 2011,
+        "Tahun ": 2011,
         "Penerbit": "Andi",
         "Jumlah Halaman": 203,
         "ISBN": "978-979-292466-4",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 80
     },
     {
         "Judul": "Belajar Otodidak FLASK (Framework Python untuk Pengembangan Aplikasi WEB)",
-        "Penulis": "BUDI RAHARJO",
-        "Tahun": 2017,
+        "Penulis": "Budi Raharjo",
+        "Tahun ": 2017,
         "Penerbit": "Informatika",
         "Jumlah Halaman": 244,
         "ISBN": "978-602-6232-26-7",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 81
     },
     {
         "Judul": "Social Media dan Social Network: Memahami dan Menguasai Penerapan Social Media dan Social Network dalam Berbagai Aspek: Bisnis, Teknologi, Etika, dan Privasi",
         "Penulis": "I Putu Agus Eka Pratama",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "Informatika",
         "Jumlah Halaman": 440,
         "ISBN": "978-623-7131-25-0",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 116
     },
     {
         "Judul": "Algoritma & Pemrograman Menggunakan Java",
         "Penulis": "Abdul Kadir",
-        "Tahun": 2012,
+        "Tahun ": 2012,
         "Penerbit": "Andi",
         "Jumlah Halaman": 388,
         "ISBN": "978-979-29-2751-1",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 114
     },
     {
         "Judul": "Membuat Aplikasi Mobile Native dengan Javascript",
         "Penulis": "Kang Cahya",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "Lokomedia",
         "Jumlah Halaman": 116,
         "ISBN": "978-602-62-3117-8",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 112
     },
     {
         "Judul": "Semua Bisa Menjadi Programmer JavaScript & Node.js",
         "Penulis": "Ir. Yuniar Supardi",
-        "Tahun": 2021,
+        "Tahun ": 2021,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 240,
         "ISBN": "978-623-00-1976-0",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 111
     },
     {
         "Judul": "Panduan Praktis Membuat Mini Games Android Menggunakan Adobe Animate CC",
         "Penulis": "Ardy Saputro",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "Andi",
         "Jumlah Halaman": 154,
         "ISBN": "978-979-29-6736-4",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 126
     },
     {
         "Judul": "Tip Dan Trik Program Database Python",
         "Penulis": "Yuniar Supardi, Yogi Syarif",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 208,
         "ISBN": "978-623-00-1480-2",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Kinda Advanced Machine Learning Projects",
-        "Penulis": "Muhammad Ardi Putra",
-        "Tahun": 2021,
-        "Penerbit": "Gava Media",
-        "Jumlah Halaman": 140,
-        "ISBN": "978-623-74-9893-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 125
     },
     {
         "Judul": "Machine Learning : (Konsep dan Implemetasi)",
         "Penulis": "Dr. Yaya Heryadi, Teguh Wahyono, M.Cs.",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "Gava Media",
         "Jumlah Halaman": 178,
         "ISBN": "978-623-7498-59-9",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 128
     },
     {
         "Judul": "Konsep Grafika Komputer",
         "Penulis": "Dr. Pulung Nurtantio Andono, S.T., M.Kom., T. Sutojo, S.Si., M. Kom.",
-        "Tahun": 2016,
+        "Tahun ": 2016,
         "Penerbit": "Andi",
         "Jumlah Halaman": 256,
         "ISBN": "978-979-29-5591-0",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Membuat Sendiri Aplikasi Augmented Reality",
-        "Penulis": "Ani Ismayani",
-        "Tahun": 2020,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 214,
-        "ISBN": "978-623-001-566-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 129
     },
     {
         "Judul": "Pengantar teknologi informasi",
         "Penulis": "Tata Sutabri",
-        "Tahun": 2014,
+        "Tahun ": 2014,
         "Penerbit": "C.V Andi Offset",
         "Jumlah Halaman": 208,
         "ISBN": "978-979-29-4249-1",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 148
     },
     {
         "Judul": "Pemrograman Database dengan Python dan MySQL",
         "Penulis": "Jubilee Enterprise",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 176,
         "ISBN": "978-602-045-574-7",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Toko Online Keren Bermodal 300 Ribuan",
-        "Penulis": "Arista Prasetyo Adi",
-        "Tahun": 2020,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 148,
-        "ISBN": "978-623-001-522-9",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 203
     },
     {
         "Judul": "Otodidak Web Programming Membuat Website Edutainment",
         "Penulis": "Muhammad Ibnu Sa'ad",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 165,
         "ISBN": "978-623-001-271-6",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 141
     },
     {
         "Judul": "Mudah & cepat membuat program skripsi & TA dengan python",
         "Penulis": "Yuniar Supardi",
-        "Tahun": 2021,
+        "Tahun ": 2021,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 222,
         "ISBN": "978-623-00-2676-8",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 117
     },
     {
         "Judul": "Lancar Java dan Javascript",
         "Penulis": "Jubilee Enterprise",
-        "Tahun": 2019,
+        "Tahun ": 2019,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 320,
         "ISBN": "978-623-000-563-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 99
     },
     {
         "Judul": "Cara Mutakhir Mempercepat Kinerja Komputer",
         "Penulis": "Dukom Kreatif",
-        "Tahun": 2012,
+        "Tahun ": 2012,
         "Penerbit": "Dunia Komputer",
         "Jumlah Halaman": 119,
         "ISBN": "978-602-914-634-9",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Belajar Otodidak Bahasa Pemrograman SQL Menggunakan MariaDB",
-        "Penulis": "Randi Adrika Putra",
-        "Tahun": 2020,
-        "Penerbit": "Gava Media",
-        "Jumlah Halaman": 184,
-        "ISBN": "978-623-749-847-6",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 94
     },
     {
         "Judul": "Buku Sakti Pemrograman Web Seri PHP",
         "Penulis": "Mundzir MF",
-        "Tahun": 2018,
+        "Tahun ": 2018,
         "Penerbit": "PT Anak Hebat Indonesia",
         "Jumlah Halaman": 228,
         "ISBN": "978-602-590-763-0",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 53
     },
     {
-        "Judul": "Buku sakti pemrograman web : html, css, php, my sql & javasript",
-        "Penulis": "Sony Adams",
-        "Tahun": 2018,
-        "Penerbit": "PT Anak Hebat Indonesia",
-        "Jumlah Halaman": 226,
-        "ISBN": "978-602-667-334-3",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Buku Sakti Pemrograman Python : Untuk Mengelola, Menganalisis, dan Memaparkan Data secara Akurat",
-        "Penulis": "Sony Adams",
-        "Tahun": 2022,
-        "Penerbit": "PT Anak Hebat Indonesia",
-        "Jumlah Halaman": 154,
-        "ISBN": "978-623-400-300-0",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Pemrograman Matlab Pada Sistem Pakar Fuzzy",
-        "Penulis": "Mohammad Yazdi Pusadan",
-        "Tahun": 2014,
-        "Penerbit": "Deppublish",
-        "Jumlah Halaman": 92,
-        "ISBN": "978-602-280-517-5",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "AKSES INTERNET dengan KOMPUTER dan HP",
-        "Penulis": "Vivi Herlina",
-        "Tahun": 2008,
-        "Penerbit": "CV. YRAMA WIDYA",
-        "Jumlah Halaman": 144,
-        "ISBN": "979-543-477-2",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Dasar-Dasar Animasi Komputer",
-        "Penulis": "Jubilee Enterprise",
-        "Tahun": 2020,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 230,
-        "ISBN": "978-623-001-428-4",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Belajar Pemrograman Web Untuk Pemula",
-        "Penulis": "Kristianto Haryodi",
-        "Tahun": 2024,
-        "Penerbit": "PT Anak Hebat Indonesia",
-        "Jumlah Halaman": 244,
-        "ISBN": "978-623-164-513-5",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "9 Langkah praktis mahir microsoft office word 2007",
-        "Penulis": "Fahri Rahadianka",
-        "Tahun": 2009,
-        "Penerbit": "PT. Wahyumedia",
-        "Jumlah Halaman": 260,
-        "ISBN": "979-795-270-3",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Kupas tuntas malware",
-        "Penulis": "Indra Prayitno",
-        "Tahun": 2010,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 124,
-        "ISBN": "978-979-276-982-1",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "HTML, PHP, dan MySQL untuk Pemula",
-        "Penulis": "Jubilee Enterprise",
-        "Tahun": 2023,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 224,
-        "ISBN": "978-623-004-806-7",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Hacking; be careful, someone’s spying on you!",
-        "Penulis": "Andrea Adelheid",
-        "Tahun": 2014,
-        "Penerbit": "Mediakita",
-        "Jumlah Halaman": 122,
-        "ISBN": "979-794-454-9",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Belajar sendiri mengolah data dengan Python & Pandas",
-        "Penulis": "Jubilee Enterprise",
-        "Tahun": 2021,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 222,
-        "ISBN": "978-623-002-621-8",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Buku Pintar Kuasai Excel untuk Persiapan Kerja",
-        "Penulis": "Fathya Kautsar",
-        "Tahun": 2024,
-        "Penerbit": "Checklist",
-        "Jumlah Halaman": 150,
-        "ISBN": "978-623-811-440-5",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Text Mining, Analisis MedSos, Kekuatan Brand Dan Intelijen Di Internet",
-        "Penulis": "Onno W Purbo",
-        "Tahun": 2019,
-        "Penerbit": "Andi Offset",
-        "Jumlah Halaman": 148,
-        "ISBN": "978-979-299-518-3",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Buku 1 Jam Ahli Pemrograman: Html, Css, Dan Javascript",
-        "Penulis": "Adam Saputra, S.Si.",
-        "Tahun": 2023,
-        "Penerbit": "PT Anak Hebat Indonesia",
-        "Jumlah Halaman": 240,
-        "ISBN": "978-623-400-629-2",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Pengenalan PHP dan Java untuk Pemula",
-        "Penulis": "Jubilee Enterprise",
-        "Tahun": 2016,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 140,
-        "ISBN": "978-602-028-626-6",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Buku Sakti Pemrograman Web : HTML, CSS, PHP, MySQL & Javascript",
+        "Judul": "Buku Sakti Pemrograman Web: HTML, CSS, PHP, MySQL & Javascript",
         "Penulis": "Didik Setiawan",
-        "Tahun": 2017,
-        "Penerbit": "Anak Hebat Indonesia",
+        "Tahun ": 2017,
+        "Penerbit": "PT Anak Hebat Indonesia",
         "Jumlah Halaman": 216,
-        "ISBN": "978-602-6673-34-3",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Dasar Perancangan dan Implementasi Database Relasional (Edisi Revisi)",
-        "Penulis": "Abdul Kadir",
-        "Tahun": 2020,
-        "Penerbit": "Andi",
-        "Jumlah Halaman": 384,
-        "ISBN": "978-623-01-0764-1",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Koleksi Program Web PHP",
-        "Penulis": "Yuniar Supardi, Irwan Kurniawan",
-        "Tahun": 2020,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 386,
-        "ISBN": "978-623-00-1499-4",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Belajar Sendiri Mengolah Data Dengan Python & Pandas",
-        "Penulis": "Jubilee Enterprise",
-        "Tahun": 2021,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 232,
-        "ISBN": "978-623-00-2621-8",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Membuat Sendiri Aplikasi Augmented Reality",
-        "Penulis": "Ani Ismayani",
-        "Tahun": 2020,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 214,
-        "ISBN": "978-623-00-1566-3",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Mudah Membuat dan Berbisnis Aplikasi Android dengan Android Studio",
-        "Penulis": "Yudha Yudhanto, Ardhi Wijayanto",
-        "Tahun": 2018,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 192,
-        "ISBN": "978-602-04-5505-1",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Toko Online Keren Bermodal 300 Ribuan",
-        "Penulis": "Arista Prasetyo Adi",
-        "Tahun": 2020,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 148,
-        "ISBN": "978-623-00-1522-9",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Otodidak Web Programming: Membuat Website Edutainment",
-        "Penulis": "Muhammad Ibnu Sa'ad",
-        "Tahun": 2020,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 174,
-        "ISBN": 9786230012716,
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Perancangan Basis Data dalam Teori dan Praktik",
-        "Penulis": "Hamim Tohari",
-        "Tahun": 2022,
-        "Penerbit": "Andi Offset",
-        "Jumlah Halaman": 106,
-        "ISBN": "978-623-01-2803-5",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "PHP Edisi Lengkap",
-        "Penulis": "Jubilee Enterprise",
-        "Tahun": 2022,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 344,
-        "ISBN": "978-623-00-3040-6",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Cepat, Praktis, dan Gratis Membuat Website",
-        "Penulis": "Jefferly Helianthusonfri",
-        "Tahun": 2019,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 200,
-        "ISBN": "978-602-04-9586-6",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Jaringan Nirkabel 5G Berbasis Cloud",
-        "Penulis": "Onno W. Purbo, Kurnia Muludi, Tosy Caesar Kurniawan",
-        "Tahun": 2021,
-        "Penerbit": "Andi Offset",
-        "Jumlah Halaman": 112,
-        "ISBN": "978-623-01-0880-8",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Cloud Computing : Manajemen dan Perencanaan Kapasitas",
-        "Penulis": "Riko Herwanto, Onno W. Purbo, RZ. Abd. Aziz",
-        "Tahun": 2020,
-        "Penerbit": "Andi Offset",
-        "Jumlah Halaman": 168,
-        "ISBN": "978-623-01-0881-5",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Serba Otomatis Membuat Laporan di Word 2016",
-        "Penulis": "Abdul Rohman",
-        "Tahun": 2019,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 126,
-        "ISBN": "978-623-00-0147-5",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Lebih Mahir dengan Microsoft Word 2019 : Membantu Menulis Dokumen Laporan, Karya Tulis Ilmiah, Skripsi hingga Buku",
-        "Penulis": "Edi S. Mulyanta, Joko I. Mumpuni",
-        "Tahun": 2020,
-        "Penerbit": "Andi",
-        "Jumlah Halaman": 216,
-        "ISBN": "978-623-01-0339-1",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Tip & Trik Menguasai iPad Untuk Semua Versi",
-        "Penulis": "Sudarma S.",
-        "Tahun": 2012,
-        "Penerbit": "MediaKita",
-        "Jumlah Halaman": 148,
-        "ISBN": "979-794-337-2",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Panduan Praktis Dan Jitu Menguasai Framework Laravel 6",
-        "Penulis": "Anton Subagia",
-        "Tahun": 2020,
-        "Penerbit": "Asfa Solution",
-        "Jumlah Halaman": 140,
-        "ISBN": "978-623-7156-04-8",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Buku Buku Ajar Kuliah : Perancangan Basis Data Teori",
-        "Penulis": "Suhartini, Andi Christian, Fajriyah",
-        "Tahun": 2020,
-        "Penerbit": "Deepublish",
-        "Jumlah Halaman": 45,
-        "ISBN": "978-623-02-0795-2",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Panduan Praktis dan Jitu Menguasai Framework Codeigniter 3",
-        "Penulis": "Anton Subagia",
-        "Tahun": 2019,
-        "Penerbit": "Asfa Solution",
-        "Jumlah Halaman": 142,
-        "ISBN": "978-602-60915-9-8",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Membangun Aplikasi Pelayanan Publik Dengan Framework Codeigniter 3",
-        "Penulis": "Doni Andriansyah",
-        "Tahun": 2019,
-        "Penerbit": "Asfa Solution",
-        "Jumlah Halaman": 126,
-        "ISBN": "978-623-7156-02-4",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Membuat Aplikasi E-Learning dengan PHP-MySQL dan Dreamweaver : Sistem Informasi Pembelajaran Siswa Berbasis Web",
-        "Penulis": "Membuat Aplikasi E-Learning dengan PHP-MySQL dan Dreamweaver : Sistem Informasi Pembelajaran Siswa Berbasis Web",
-        "Tahun": 2017,
-        "Penerbit": "Gava Media",
-        "Jumlah Halaman": 410,
-        "ISBN": "978-602-6948-88-5",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Create Your Own Android Application",
-        "Penulis": "Nadia Firly",
-        "Tahun": 2018,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 189,
-        "ISBN": "978-602-04-6024-6",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Menciptakan Presentasi Mengagumkan Dengan Microsoft Power Point Anda",
-        "Penulis": "Daniel Tirta, S.kom",
-        "Tahun": 2016,
-        "Penerbit": "Media Cerdas",
-        "Jumlah Halaman": 160,
-        "ISBN": "978-602-9460-67-4",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Photoshop Animation Magic",
-        "Penulis": "Aditya, ST",
-        "Tahun": 2011,
-        "Penerbit": "MediaKita",
-        "Jumlah Halaman": 108,
-        "ISBN": "979-794-276-7",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Jurus Kilat Jago Bikin Website Joomla!",
-        "Penulis": "Abdul Latief",
-        "Tahun": 2010,
-        "Penerbit": "Dunia Komputer",
-        "Jumlah Halaman": 118,
-        "ISBN": "978-602-97743-4-4",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Otodidak MS Excel Untuk Mengelola Data",
-        "Penulis": "Jubilee Enterprise",
-        "Tahun": 2018,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 194,
-        "ISBN": "978-602-04-8672-7",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Unity Tutorial Game Engine (Edisi Revisi Kedua)",
-        "Penulis": "Rickman Roedavan",
-        "Tahun": 2018,
-        "Penerbit": "Informatika",
-        "Jumlah Halaman": 560,
-        "ISBN": "978-602-6232-63-2.",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Inspirasi Codeigniter Return",
-        "Penulis": "Ibnu Syuhada",
-        "Tahun": 2017,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 155,
-        "ISBN": "978-602-04-1276-4",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Pemrograman Web Seri PHP",
-        "Penulis": "Rizki Hidayatullah",
-        "Tahun": 2020,
-        "Penerbit": "Anak Hebat Indonesia",
-        "Jumlah Halaman": 222,
-        "ISBN": "978-623-24-4281-8",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Buku Sakti Pemrograman Python : Untuk Mengelola, Menganalisis, dan Memaparkan Data secara Akurat",
-        "Penulis": "Adam Saputra, S.Si.",
-        "Tahun": 2022,
-        "Penerbit": "Anak Hebat Indonesia",
-        "Jumlah Halaman": 154,
-        "ISBN": "978-623-400-300-0",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "HTML, PHP, dan MySQL untuk Pemula",
-        "Penulis": "Jubilee Enterprise.",
-        "Tahun": 2018,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 190,
-        "ISBN": "978-602-04-8622-2",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Wordpress Untuk Situs Web Toko Online, Portal Berita, Corporate, Portofolio, & Fotografi",
-        "Penulis": "Ali Zaenal",
-        "Tahun": 2012,
-        "Penerbit": "MediaKita",
-        "Jumlah Halaman": 107,
-        "ISBN": "979-794-351-8",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Pemrograman Python Untuk Ilmu Komputer Dan Teknik",
-        "Penulis": "Widodo Budiharto",
-        "Tahun": 2018,
-        "Penerbit": "Andi Offset",
-        "Jumlah Halaman": 168,
-        "ISBN": "978-979-29-6618-3",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Belajar Coding Itu Penting di Era Revolusi Industri 4.0",
-        "Penulis": "Yeni Mulyani",
-        "Tahun": 2020,
-        "Penerbit": "Pustaka Baru",
-        "Jumlah Halaman": 160,
-        "ISBN": "978-602-376-367-2",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Pengantar Logika Informatika. Algoritma dan Pemrograman Komputer",
-        "Penulis": "Heri Sismoro",
-        "Tahun": 2005,
-        "Penerbit": "Andi",
-        "Jumlah Halaman": 96,
-        "ISBN": "979-763-004-8",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Buku Statistika Penelitian Dengan SPSS 24",
-        "Penulis": "Getut Pramesti",
-        "Tahun": 2017,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 163,
-        "ISBN": "978-602-04-4911-1",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Jual Buku Sakti Pemrograman Web Seri PHP",
-        "Penulis": "Mundzir MF",
-        "Tahun": 2018,
-        "Penerbit": "Start Up",
-        "Jumlah Halaman": 222,
-        "ISBN": "978-602-5907-63-0",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Yuk Berbisnis dengan Laravel dan Android",
-        "Penulis": "Yudho Yudhanto, Helmi Adi Prasetyo",
-        "Tahun": 2019,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 180,
-        "ISBN": "978-623-00-0159-8",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "111 Kode HTML untuk Belajar Kilat",
-        "Penulis": "Arista Prasetyo Adi",
-        "Tahun": 2019,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 164,
-        "ISBN": "978-602-04-9686-3",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Statistika Lengkap secara Teori dan Aplikasi dengan SPSS 23",
-        "Penulis": "Getut Pramesti",
-        "Tahun": 2016,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 175,
-        "ISBN": "978-602-02-8540-5",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Aplikasi Face Detector dan Digital Imaging dengan Python : mengenal pemrograman computer vision untuk mendeteksi objek dan digital imaging dengan phyton",
-        "Penulis": "Jubilee Enterprise",
-        "Tahun": 2018,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 130,
-        "ISBN": "978-602-04-5362-0",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Panduan Cepat SEO untuk Pemula",
-        "Penulis": "Arista Prasetyo Adi",
-        "Tahun": 2019,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 148,
-        "ISBN": "978-623-00-0466-7",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Text Mining, Analisis Medsos, Kekuatan Brand dan Intelijen di Internet",
-        "Penulis": "Onno W. Purbo",
-        "Tahun": 2019,
-        "Penerbit": "Andi",
-        "Jumlah Halaman": 148,
-        "ISBN": "978-979-29-9518-3",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "HTML5 dan Javascript untuk Pemula",
-        "Penulis": "Jubilee Enterprise",
-        "Tahun": 2017,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 308,
-        "ISBN": "978-602-04-5083-4",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "The Power Of Owncloud Membangun dan Mengelola Sendiri",
-        "Penulis": "Dedy Setyo Afrianto",
-        "Tahun": 2017,
-        "Penerbit": "Andi",
-        "Jumlah Halaman": 146,
-        "ISBN": "978-979-29-5852-2",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Buat Sendiri Desain Kaos Distro dengan Coreldraw Urban Art Expression",
-        "Penulis": "Madcoms",
-        "Tahun": 2011,
-        "Penerbit": "Andi",
-        "Jumlah Halaman": 203,
-        "ISBN": "978-979-292466-4",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Belajar Otodidak FLASK (Framework Python untuk Pengembangan Aplikasi WEB)",
-        "Penulis": "BUDI RAHARJO",
-        "Tahun": 2017,
-        "Penerbit": "Informatika",
-        "Jumlah Halaman": 244,
-        "ISBN": "978-602-6232-26-7",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Social Media dan Social Network: Memahami dan Menguasai Penerapan Social Media dan Social Network dalam Berbagai Aspek: Bisnis, Teknologi, Etika, dan Privasi",
-        "Penulis": "I Putu Agus Eka Pratama",
-        "Tahun": 2020,
-        "Penerbit": "Informatika",
-        "Jumlah Halaman": 440,
-        "ISBN": "978-623-7131-25-0",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Algoritma & Pemrograman Menggunakan Java",
-        "Penulis": "Abdul Kadir",
-        "Tahun": 2012,
-        "Penerbit": "Andi",
-        "Jumlah Halaman": 388,
-        "ISBN": "978-979-29-2751-1",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Membuat Aplikasi Mobile Native dengan Javascript",
-        "Penulis": "Kang Cahya",
-        "Tahun": 2018,
-        "Penerbit": "Lokomedia",
-        "Jumlah Halaman": 116,
-        "ISBN": "978-602-62-3117-8",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Semua Bisa Menjadi Programmer JavaScript & Node.js",
-        "Penulis": "Ir. Yuniar Supardi",
-        "Tahun": 2021,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 240,
-        "ISBN": "978-623-00-1976-0",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Panduan Praktis Membuat Mini Games Android Menggunakan Adobe Animate CC",
-        "Penulis": "Ardy Saputro",
-        "Tahun": 2018,
-        "Penerbit": "Andi",
-        "Jumlah Halaman": 154,
-        "ISBN": "978-979-29-6736-4",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Tip Dan Trik Program Database Python",
-        "Penulis": "Yuniar Supardi, Yogi Syarif",
-        "Tahun": 2020,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 208,
-        "ISBN": "978-623-00-1480-2",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Kinda Advanced Machine Learning Projects",
-        "Penulis": "Muhammad Ardi Putra",
-        "Tahun": 2021,
-        "Penerbit": "Gava Media",
-        "Jumlah Halaman": 140,
-        "ISBN": "978-623-74-9893-3",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Machine Learning : (Konsep dan Implemetasi)",
-        "Penulis": "Dr. Yaya Heryadi, Teguh Wahyono, M.Cs.",
-        "Tahun": 2020,
-        "Penerbit": "Gava Media",
-        "Jumlah Halaman": 178,
-        "ISBN": "978-623-7498-59-9",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Konsep Grafika Komputer",
-        "Penulis": "Dr. Pulung Nurtantio Andono, S.T., M.Kom., T. Sutojo, S.Si., M. Kom.",
-        "Tahun": 2016,
-        "Penerbit": "Andi",
-        "Jumlah Halaman": 256,
-        "ISBN": "978-979-29-5591-0",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Membuat Sendiri Aplikasi Augmented Reality",
-        "Penulis": "Ani Ismayani",
-        "Tahun": 2020,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 214,
-        "ISBN": "978-623-001-566-3",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Pengantar teknologi informasi",
-        "Penulis": "Tata Sutabri",
-        "Tahun": 2014,
-        "Penerbit": "C.V Andi Offset",
-        "Jumlah Halaman": 208,
-        "ISBN": "978-979-29-4249-1",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Pemrograman Database dengan Python dan MySQL",
-        "Penulis": "Jubilee Enterprise",
-        "Tahun": 2018,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 176,
-        "ISBN": "978-602-045-574-7",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Toko Online Keren Bermodal 300 Ribuan",
-        "Penulis": "Arista Prasetyo Adi",
-        "Tahun": 2020,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 148,
-        "ISBN": "978-623-001-522-9",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Otodidak Web Programming Membuat Website Edutainment",
-        "Penulis": "Muhammad Ibnu Sa'ad",
-        "Tahun": 2020,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 165,
-        "ISBN": "978-623-001-271-6",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Mudah & cepat membuat program skripsi & TA dengan python",
-        "Penulis": "Yuniar Supardi",
-        "Tahun": 2021,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 222,
-        "ISBN": "978-623-00-2676-8",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Lancar Java dan Javascript",
-        "Penulis": "Jubilee Enterprise",
-        "Tahun": 2019,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 320,
-        "ISBN": "978-623-000-563-3",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Cara Mutakhir Mempercepat Kinerja Komputer",
-        "Penulis": "Dukom Kreatif",
-        "Tahun": 2012,
-        "Penerbit": "Dunia Komputer",
-        "Jumlah Halaman": 119,
-        "ISBN": "978-602-914-634-9",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Belajar Otodidak Bahasa Pemrograman SQL Menggunakan MariaDB",
-        "Penulis": "Randi Adrika Putra",
-        "Tahun": 2020,
-        "Penerbit": "Gava Media",
-        "Jumlah Halaman": 184,
-        "ISBN": "978-623-749-847-6",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Buku Sakti Pemrograman Web Seri PHP",
-        "Penulis": "Mundzir MF",
-        "Tahun": 2018,
-        "Penerbit": "PT Anak Hebat Indonesia",
-        "Jumlah Halaman": 228,
-        "ISBN": "978-602-590-763-0",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Buku sakti pemrograman web : html, css, php, my sql & javasript",
-        "Penulis": "Sony Adams",
-        "Tahun": 2018,
-        "Penerbit": "PT Anak Hebat Indonesia",
-        "Jumlah Halaman": 226,
-        "ISBN": "978-602-667-334-3",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Buku Sakti Pemrograman Python : Untuk Mengelola, Menganalisis, dan Memaparkan Data secara Akurat",
-        "Penulis": "Sony Adams",
-        "Tahun": 2022,
-        "Penerbit": "PT Anak Hebat Indonesia",
-        "Jumlah Halaman": 154,
-        "ISBN": "978-623-400-300-0",
-        "Rak Buku": "",
-        "Nomor": ""
+        "ISBN": "978-623-24-4352-5",
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 96
     },
     {
         "Judul": "Pemrograman Matlab Pada Sistem Pakar Fuzzy",
         "Penulis": "Mohammad Yazdi Pusadan",
-        "Tahun": 2014,
+        "Tahun ": 2014,
         "Penerbit": "Deppublish",
         "Jumlah Halaman": 92,
         "ISBN": "978-602-280-517-5",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "AKSES INTERNET dengan KOMPUTER dan HP",
-        "Penulis": "Vivi Herlina",
-        "Tahun": 2008,
-        "Penerbit": "CV. YRAMA WIDYA",
-        "Jumlah Halaman": 144,
-        "ISBN": "979-543-477-2",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 96
     },
     {
         "Judul": "Dasar-Dasar Animasi Komputer",
         "Penulis": "Jubilee Enterprise",
-        "Tahun": 2020,
+        "Tahun ": 2020,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 230,
         "ISBN": "978-623-001-428-4",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Belajar Pemrograman Web Untuk Pemula",
-        "Penulis": "Kristianto Haryodi",
-        "Tahun": 2024,
-        "Penerbit": "PT Anak Hebat Indonesia",
-        "Jumlah Halaman": 244,
-        "ISBN": "978-623-164-513-5",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 215
     },
     {
         "Judul": "9 Langkah praktis mahir microsoft office word 2007",
         "Penulis": "Fahri Rahadianka",
-        "Tahun": 2009,
+        "Tahun ": 2009,
         "Penerbit": "PT. Wahyumedia",
         "Jumlah Halaman": 260,
         "ISBN": "979-795-270-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 217
     },
     {
         "Judul": "Kupas tuntas malware",
         "Penulis": "Indra Prayitno",
-        "Tahun": 2010,
+        "Tahun ": 2010,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 124,
         "ISBN": "978-979-276-982-1",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "HTML, PHP, dan MySQL untuk Pemula",
-        "Penulis": "Jubilee Enterprise",
-        "Tahun": 2023,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 224,
-        "ISBN": "978-623-004-806-7",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 218
     },
     {
         "Judul": "Hacking; be careful, someone’s spying on you!",
         "Penulis": "Andrea Adelheid",
-        "Tahun": 2014,
+        "Tahun ": 2014,
         "Penerbit": "Mediakita",
         "Jumlah Halaman": 122,
         "ISBN": "979-794-454-9",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Belajar sendiri mengolah data dengan Python & Pandas",
-        "Penulis": "Jubilee Enterprise",
-        "Tahun": 2021,
-        "Penerbit": "PT Elex Media Komputindo",
-        "Jumlah Halaman": 222,
-        "ISBN": "978-623-002-621-8",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 220
     },
     {
         "Judul": "Buku Pintar Kuasai Excel untuk Persiapan Kerja",
         "Penulis": "Fathya Kautsar",
-        "Tahun": 2024,
+        "Tahun ": 2024,
         "Penerbit": "Checklist",
         "Jumlah Halaman": 150,
         "ISBN": "978-623-811-440-5",
-        "Rak Buku": "",
-        "Nomor": ""
-    },
-    {
-        "Judul": "Text Mining, Analisis MedSos, Kekuatan Brand Dan Intelijen Di Internet",
-        "Penulis": "Onno W Purbo",
-        "Tahun": 2019,
-        "Penerbit": "Andi Offset",
-        "Jumlah Halaman": 148,
-        "ISBN": "978-979-299-518-3",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 222
     },
     {
         "Judul": "Buku 1 Jam Ahli Pemrograman: Html, Css, Dan Javascript",
         "Penulis": "Adam Saputra, S.Si.",
-        "Tahun": 2023,
+        "Tahun ": 2023,
         "Penerbit": "PT Anak Hebat Indonesia",
         "Jumlah Halaman": 240,
         "ISBN": "978-623-400-629-2",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 224
     },
     {
         "Judul": "Pengenalan PHP dan Java untuk Pemula",
         "Penulis": "Jubilee Enterprise",
-        "Tahun": 2016,
+        "Tahun ": 2016,
         "Penerbit": "PT Elex Media Komputindo",
         "Jumlah Halaman": 140,
         "ISBN": "978-602-028-626-6",
-        "Rak Buku": "",
-        "Nomor": ""
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 225
+    },
+    {
+        "Judul": "Membuat aplikasi IoT: Internet Of Things",
+        "Penulis": "Hardana S.Kom",
+        "Tahun ": 2019,
+        "Penerbit": "Lokomedia",
+        "Jumlah Halaman": 138,
+        "ISBN": "978-602-623-124-6",
+        "Rak Buku": "Teknik Informatika 2021",
+        "Nomor Buku": 1
+    },
+    {
+        "Judul": "Solusi Cepat Bisa Microsoft Office 2016",
+        "Penulis": "Alfa Hartoko",
+        "Tahun ": 2019,
+        "Penerbit": "Elex Media Komputindo",
+        "Jumlah Halaman": 252,
+        "ISBN": "978-602-049-811-9",
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 16
+    },
+    {
+        "Judul": "Otodidak MS Office 2016",
+        "Penulis": "Jubilee Enterprise",
+        "Tahun ": 2018,
+        "Penerbit": "Elex Media Komputindo",
+        "Jumlah Halaman": 188,
+        "ISBN": "978-602-045-165-7",
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 17
+    },
+    {
+        "Judul": "Otomatisasi Administrasi Jaringan dengan Script Python",
+        "Penulis": "Ahmad Rosid Komarudin",
+        "Tahun ": 2018,
+        "Penerbit": "Jasakom",
+        "Jumlah Halaman": 137,
+        "ISBN": "978-602-082-329-4",
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 19
+    },
+    {
+        "Judul": "Coding Mudah dengan CodeIgniter, JQuery, Bootstrap, dan Datatable",
+        "Penulis": "Heru Sulistiono, S.Kom., M.Kom.",
+        "Tahun ": 2018,
+        "Penerbit": "Elex Media Komputindo",
+        "Jumlah Halaman": 212,
+        "ISBN": "978-602-04-7688-9",
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 10
+    },
+    {
+        "Judul": "Pemrograman Aplikasi Android dengan Android Studio, Photoshop, dan Audition",
+        "Penulis": "Herlinah, Musliadi",
+        "Tahun ": 2019,
+        "Penerbit": "Elex Media Komputindo",
+        "Jumlah Halaman": 290,
+        "ISBN": "978-623-000-213-7",
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 11
+    },
+    {
+        "Judul": "Membangun Aplikasi Dengan PHP, Codeigniter, dan Ajax",
+        "Penulis": "Uus Rusmawan",
+        "Tahun ": 2018,
+        "Penerbit": "Elex Media Komputindo",
+        "Jumlah Halaman": 200,
+        "ISBN": "978-602-048-600-0",
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 12
+    },
+    {
+        "Judul": "Membuat web mobile untuk orang awam",
+        "Penulis": "Imam Mulhim",
+        "Tahun ": 2014,
+        "Penerbit": "Maxikom",
+        "Jumlah Halaman": 162,
+        "ISBN": "978-602-7680-68-5",
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 13
+    },
+    {
+        "Judul": "Mikrotik Kung Fu : Kitab 1 (Edisi 2019)",
+        "Penulis": "Rendra Towidjojo",
+        "Tahun ": 2019,
+        "Penerbit": "Jasakom",
+        "Jumlah Halaman": 192,
+        "ISBN": "978-602-082-333-1",
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 14
+    },
+    {
+        "Judul": "Koleksi Program Web Java",
+        "Penulis": "Ir.Yuniar Supardi",
+        "Tahun ": 2019,
+        "Penerbit": "Elex Media Komputindo",
+        "Jumlah Halaman": 280,
+        "ISBN": "978-602-049-653-5",
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 15
+    },
+    {
+        "Judul": "Membuat Aplikasi Mobile Native dengan Javascript by Nativescript",
+        "Penulis": "Kang Cahya",
+        "Tahun ": 2018,
+        "Penerbit": "Lokomedia",
+        "Jumlah Halaman": 116,
+        "ISBN": "978-602-623-117-8",
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 22
+    },
+    {
+        "Judul": "Buku pintar aplikasi SMS dengan PHP dan MySQL",
+        "Penulis": "Frangky Rawung",
+        "Tahun ": 2017,
+        "Penerbit": "Gava Media",
+        "Jumlah Halaman": 124,
+        "ISBN": "978-602-694-887-8",
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 24
+    },
+    {
+        "Judul": "Ragam Tutorial Desain Grafis bagi Pemula",
+        "Penulis": "Lea Willsen",
+        "Tahun ": 2018,
+        "Penerbit": "Elex Media Komputindo",
+        "Jumlah Halaman": 224,
+        "ISBN": "978-602-047-796-1",
+        "Rak Buku": "Teknik Informatika 2019",
+        "Nomor Buku": 26
+    },
+    {
+        "Judul": "Mengupas Kedahsyatan Array Formula Ctrl+Shift+Enter (CSE) Microsoft Excel",
+        "Penulis": "Johar Arifin",
+        "Tahun ": 2017,
+        "Penerbit": "Elex Media Komputindo",
+        "Jumlah Halaman": 192,
+        "ISBN": "978-602-043-143-7",
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 54
+    },
+    {
+        "Judul": "Python untuk membuat game hingga face detector",
+        "Penulis": "Jubilee Enterprise",
+        "Tahun ": 2020,
+        "Penerbit": "Elex Media Komputindo",
+        "Jumlah Halaman": 198,
+        "ISBN": "978-623-00-1502-1",
+        "Rak Buku": "Teknik Informatika 2020",
+        "Nomor Buku": 80
+    },
+    {
+        "Judul": "Special project : karakter dan animasi 3D dengan 3D Studio Max 7",
+        "Penulis": "Arief Ramadhan, Favorisen R. Lumbanraja",
+        "Tahun ": 2006,
+        "Penerbit": "Elex Media Komputindo",
+        "Jumlah Halaman": 48,
+        "ISBN": "979-20-8232-8",
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 78
+    },
+    {
+        "Judul": "Pemrograman berbasis web html, php7, MySQLi, dan bootstrap 4",
+        "Penulis": "Indra Styawantoro, Agus Komarudin",
+        "Tahun ": 2021,
+        "Penerbit": "Lakeisha",
+        "Jumlah Halaman": 77,
+        "ISBN": "978-623-694-880-4",
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 110
+    },
+    {
+        "Judul": "Kumpulan Latihan PHP",
+        "Penulis": "Eri Mardiani, Nur Rahmansyah, Wahyudi, Nurhafifah Matondang, Yunan Fauzi Wijaya, Farid Al Rizky",
+        "Tahun ": 2021,
+        "Penerbit": "Elex Media Komputindo",
+        "Jumlah Halaman": 224,
+        "ISBN": "978-623-002-913-4",
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 111
+    },
+    {
+        "Judul": "Konsep dan Penerapan Ip Versi 6 dalam Membangun Jaringan Komputer",
+        "Penulis": "Mulyadi",
+        "Tahun ": 2022,
+        "Penerbit": "ANDI PUBLISHER",
+        "Jumlah Halaman": 176,
+        "ISBN": "978-623-01-3081-6",
+        "Rak Buku": "Teknik Informatika 2022",
+        "Nomor Buku": 101
+    },
+    {
+        "Judul": "Android application development for rookies with database",
+        "Penulis": "Nadia Firly",
+        "Tahun ": 2019,
+        "Penerbit": "Elex Media Komputindo",
+        "Jumlah Halaman": 250,
+        "ISBN": "978-623-00-0325-7",
+        "Rak Buku": "Teknik Informatika 2023",
+        "Nomor Buku": 87
     }
 ]
