@@ -86,13 +86,32 @@ def main():
         
         if st.button("Cari Buku"):
             if search_query:
-        # Pencarian buku berdasarkan opsi
+                # Pencarian buku berdasarkan opsi
                 if search_option == "Judul":
-                    results = [book for book in books if search_query.lower() in book["Judul"].lower()]
+                    results = [
+                        book for book in books 
+                        if search_query.lower() in book["Judul"].lower()
+                    ]
                 elif search_option == "Penulis":
-                    results = [book for book in books if search_query.lower() in book["Penulis"].lower()]
+                    results = [
+                        book for book in books 
+                        if search_query.lower() in book["Penulis"].lower()
+                    ]
                 elif search_option == "Tahun Terbit":
-                    results = [book for book in books if search_query == int(book["Tahun"])]
+                    results = [
+                        book for book in books
+                        if book.get("Tahun") and book["Tahun"].isdigit() and int(search_query) == int(book["Tahun"])
+                    ]
+    
+        #if st.button("Cari Buku"):
+         #   if search_query:
+        # Pencarian buku berdasarkan opsi
+          #      if search_option == "Judul":
+           #         results = [book for book in books if search_query.lower() in book["Judul"].lower()]
+            #    elif search_option == "Penulis":
+             #       results = [book for book in books if search_query.lower() in book["Penulis"].lower()]
+              #  elif search_option == "Tahun Terbit":
+               #     results = [book for book in books if search_query == int(book["Tahun"])]
 
         #Menjumlahkan buku yang di temukan    
             total_found = len(results)
