@@ -92,7 +92,7 @@ def main():
                 elif search_option == "Penulis":
                     results = [book for book in books if search_query.lower() in book["Penulis"].lower()]
                 elif search_option == "Tahun Terbit":
-                    results = [book for book in books if search_query == str(book["Tahun"])]
+                    results = [book for book in books if search_query == int(book["Tahun"])]
 
         #Menjumlahkan buku yang di temukan    
             total_found = len(results)
