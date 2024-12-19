@@ -189,22 +189,8 @@ if "logged_in" not in st.session_state:
 
 if st.session_state["logged_in"]:
     main ()
+    if st.sidebar.button("Logout"):
+        st.session_state.clear()  # Reset semua state
 else:
     login_page()
 
-
-    #if st.button("Login"):
-        # Verifikasi username dan password
-
-     #   if username == "admin" and password == "admin":
-      #      st.session_state["logged_in"] = True
-       #     st.success("Login berhasil!")
-        #elif username == "hilmi" and password == "hilmi":
-         #   st.session_state["logged_in"] = True
-          #  st.success("Login berhasil!")
-        #else:
-         #   st.error("Username atau password salah.")
-
-# Menjalankan aplikasi
-#if __name__ == "__main__":
-#    main()
