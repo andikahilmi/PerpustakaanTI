@@ -22,7 +22,7 @@ def save_book(new_book):
     with open("buku.json", "w") as file:
         json.dump(books, file, indent=4)
     st.success("Buku berhasil ditambahkan!")
-    
+
 # Fungsi untuk menampilkan informasi buku dengan format rapi
 def display_book(book):
     st.write(f"**Judul**: {book.get('Judul', 'N/A')}")
@@ -37,7 +37,7 @@ def display_book(book):
 
 # Fungsi login
 def login_page():
-    st.title("Login Portal Perpustakaan")
+    st.title("Login")
     # Inisialisasi session_state untuk menyimpan kredensial
     if "credentials" not in st.session_state:
         st.session_state["credentials"] = {
@@ -62,7 +62,7 @@ def login_page():
     
 # Fungsi utama aplikasi Streamlit
 def main():
-    st.title("--Portal Pencarian Koleksi Buku di  Perpustakaan Jurusan Elektro  Prodi Teknik Informatika--")
+    st.title("-Portal Pencarian Koleksi Buku di  Perpustakaan Jurusan Elektro - Prodi Teknik Informatika")
     
     # Memuat data buku
     books = load_books()
@@ -83,10 +83,10 @@ def main():
         # Input pencarian berdasarkan pilihan
         if search_option:
             search_query = st.text_input(f"Masukkan {search_option}:")
-        # Input pencarian tunggal
+        
         if st.button("Cari Buku"):
             if search_query:
-            # Pencarian buku berdasarkan opsi
+        # Pencarian buku berdasarkan opsi
                 if search_option == "Judul":
                     results = [book for book in books if search_query.lower() in book["Judul"].lower()]
                 elif search_option == "Penulis":
@@ -94,40 +94,46 @@ def main():
                 elif search_option == "Tahun Terbit":
                     results = [book for book in books if search_query == str(book["Tahun"])]
 
-            #Menjumlahkan buku yang di temukan    
-                total_found = len(results)
-                st.write(f"Total buku ditemukan: {total_found}")
+        #Menjumlahkan buku yang di temukan    
+            total_found = len(results)
+            st.write(f"Total buku ditemukan: {total_found}")
 
-                # Menampilkan hasil dalam bentuk tabel jika ada hasil
-                if results:
+            # Menampilkan hasil dalam bentuk tabel jika ada hasil
+            if results:
                 # Konversi hasil pencarian menjadi DataFrame pandas
-                    df = pd.DataFrame(results)
+                df = pd.DataFrame(results)
 
-                    # Konversi kolom "Tahun" agar tampil tanpa desimal
-                    if "Tahun" in df.columns:
-                        df["Tahun"] = pd.to_numeric(df["Tahun"], errors="coerce").fillna(0).astype(str).replace(0, "")
-                    elif "Jumlah Halaman" in df.columns:
-                        df["Jumlah Halaman"] = pd.to_numeric(df["Jumlah Halaman"], errors="coerce").fillna(0).astype(int).replace(0, "")
-                    elif "Nomor Buku" in df.columns:
-                        df["Nomor Buku"] = pd.to_numeric(df["Nomor Buku"], errors="coerce").fillna(0).astype(int).replace(0, "")
+                # Konversi kolom "Tahun" agar tampil tanpa desimal
+                if "Tahun" in df.columns:
+                    df["Tahun"] = pd.to_numeric(df["Tahun"], errors="coerce").fillna(0).astype(int).replace(0, "")
+                elif "Jumlah Halaman" in df.columns:
+                    df["Jumlah Halaman"] = pd.to_numeric(df["Jumlah Halaman"], errors="coerce").fillna(0).astype(int).replace(0, "")
+                elif "Nomor Buku" in df.columns:
+                    df["Nomor Buku"] = pd.to_numeric(df["Nomor Buku"], errors="coerce").fillna(0).astype(int).replace(0, "")
 
-                    st.table(df)  # Menampilkan dalam bentuk tabel
-                else:
-                    st.warning("Buku tidak ditemukan.")
-
-                #if results:
-                #    for book in results:
-                #        display_book(book)
-                #else:
-                #    st.warning("Buku tidak ditemukan.")
+                st.table(df)  # Menampilkan dalam bentuk tabel
+            else:
+                st.warning("Buku tidak ditemukan.")
+            
+            # Menampilkan hasil dalam bentuk tabel jika ada hasil
+            #if results:
+             #   for book in results:
+              #      display_book(book)
+            #else:
+             #   st.warning("Buku tidak ditemukan.")
 
     elif choice == "Tampilkan Semua Buku":
         st.subheader("Semua Buku")
+
         if books:
+            total_books = len(books)
+            st.write(f"**Total Buku Tersedia: {total_books}**")
+
             for book in books:
                 display_book(book)
         else:
             st.warning("Tidak ada data buku yang tersedia.")
+
     #new
     elif choice == "Tambah Buku":
         st.subheader("Tambah Buku Baru")
@@ -139,7 +145,7 @@ def main():
         jumlah_halaman = st.number_input("Jumlah Halaman", min_value=1)
         isbn = st.text_input("ISBN")
         rak_buku = st.text_input("Rak Buku")
-        nomor = st.text_input("Nomor")
+        nomor = st.text_input("Nomor Buku")
     
         if st.button("Simpan Buku"):
             if judul and penulis and tahun and penerbit:
@@ -151,11 +157,12 @@ def main():
                     "Jumlah Halaman": jumlah_halaman,
                     "ISBN": isbn,
                     "Rak Buku": rak_buku,
-                    "Nomor": nomor,
+                    "Nomor Buku": nomor,
                 }
                 save_book(new_book)
             else:
                 st.error("Mohon isi semua kolom yang diperlukan.")
+
     
     elif choice == "Tentang Aplikasi":
         st.subheader("Tentang Aplikasi")
@@ -173,7 +180,7 @@ def main():
         - Muhammad Farel 
         - Siang Nir
         - Saskia Rafina Putri
-        - Tanaya Dzakiyya Isnania
+        - Tanaya
         """)
 
 if "logged_in" not in st.session_state:
@@ -185,3 +192,18 @@ else:
     login_page()
 
 
+    #if st.button("Login"):
+        # Verifikasi username dan password
+
+     #   if username == "admin" and password == "admin":
+      #      st.session_state["logged_in"] = True
+       #     st.success("Login berhasil!")
+        #elif username == "hilmi" and password == "hilmi":
+         #   st.session_state["logged_in"] = True
+          #  st.success("Login berhasil!")
+        #else:
+         #   st.error("Username atau password salah.")
+
+# Menjalankan aplikasi
+#if __name__ == "__main__":
+#    main()
