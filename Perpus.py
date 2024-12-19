@@ -87,7 +87,7 @@ def main():
     
         if st.button("Cari Buku"):
             if search_query:
-         Pencarian buku berdasarkan opsi
+         #Pencarian buku berdasarkan opsi
                 if search_option == "Judul":
                     results = [book for book in books if search_query.lower() in book["Judul"].lower()]
                 elif search_option == "Penulis":
