@@ -37,7 +37,7 @@ def display_book(book):
 
 # Fungsi login
 def login_page():
-    st.title("Login")
+    st.title("Login Portal Pencarian Buku")
     # Inisialisasi session_state untuk menyimpan kredensial
     if "credentials" not in st.session_state:
         st.session_state["credentials"] = {
@@ -179,8 +179,8 @@ def main():
         - Hilmi Andika
         - Muhammad Farel 
         - Siang Nir
-        - Saskia Rafina Putri
-        - Tanaya
+        - Saskia Rafina Fitri
+        - Tanaya Dzakiyya Isnania
         """)
 
 if "logged_in" not in st.session_state:
