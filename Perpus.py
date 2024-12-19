@@ -100,7 +100,7 @@ def main():
                 elif search_option == "Tahun Terbit":
                     results = [
                         book for book in books
-                        if book.get("Tahun ") and book["Tahun "].isdigit() and int(search_query) == int(book["Tahun "])
+                        if book.get("Tahun") and book["Tahun"].isdigit() and int(search_query) == int(book["Tahun"])
                     ]
     
         #if st.button("Cari Buku"):
