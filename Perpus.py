@@ -62,7 +62,7 @@ def login_page():
             st.session_state["logged_in"] = True
             st.success("Login berhasil!")
         else:
-            st.error("Username atau password salah.")
+            st.error("Nama Pengguna atau Kata Sandi salah.")
     
 # Fungsi utama aplikasi Streamlit
 def main():
