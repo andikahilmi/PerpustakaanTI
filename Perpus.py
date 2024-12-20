@@ -38,7 +38,7 @@ def display_book(book):
 # Fungsi login
 def login_page():
     st.title("Silahkan Login")
-    st.image("https://www.google.com/imgres?q=polnep&imgurl=https%3A%2F%2Fmediacdn.quipper.com%2Fmedia%2FW1siZiIsIjIwMTgvMDEvMjkvMDYvNDAvMzgvNTRlZjM4ZDAtMjAyNC00ODI3LTkxNmQtNTUwOTRmN2I3ODBhLyJdLFsicCIsInRodW1iIiwiMTIwMHhcdTAwM2UiLHt9XSxbInAiLCJjb252ZXJ0IiwiLWNvbG9yc3BhY2Ugc1JHQiAtc3RyaXAiLHsiZm9ybWF0IjoianBnIn1dXQ%3Fsha%3D5df9a84cff8ea708&imgrefurl=https%3A%2F%2Fcampus.quipper.com%2Fdirectory%2Fpoliteknik-negeri-pontianak&docid=beRYDQJIjRq7uM&tbnid=Ao1pLqHYcz-4RM&vet=12ahUKEwjSud3Ew7WKAxX7qWMGHUlLCLYQM3oECH4QAA..i&w=1200&h=601&hcb=2&ved=2ahUKEwjSud3Ew7WKAxX7qWMGHUlLCLYQM3oECH4QAA", caption = "gedung polnep", use_column_width = True)
+    st.image("https://www.google.com/imgres?q=polnep&imgurl=https%3A%2F%2Fmediacdn.quipper.com%2Fmedia%2FW1siZiIsIjIwMTgvMDEvMjkvMDYvNDAvMzgvNTRlZjM4ZDAtMjAyNC00ODI3LTkxNmQtNTUwOTRmN2I3ODBhLyJdLFsicCIsInRodW1iIiwiMTIwMHhcdTAwM2UiLHt9XSxbInAiLCJjb252ZXJ0IiwiLWNvbG9yc3BhY2Ugc1JHQiAtc3RyaXAiLHsiZm9ybWF0IjoianBnIn1dXQ%3Fsha%3D5df9a84cff8ea708&imgrefurl=https%3A%2F%2Fcampus.quipper.com%2Fdirectory%2Fpoliteknik-negeri-pontianak&docid=beRYDQJIjRq7uM&tbnid=Ao1pLqHYcz-4RM&vet=12ahUKEwjSud3Ew7WKAxX7qWMGHUlLCLYQM3oECH4QAA..i&w=1200&h=601&hcb=2&ved=2ahUKEwjSud3Ew7WKAxX7qWMGHUlLCLYQM3oECH4QAA", caption = "gedung polnep", use_container_width = True)
     # Inisialisasi session_state untuk menyimpan kredensial
     if "credentials" not in st.session_state:
         st.session_state["credentials"] = {
