@@ -45,7 +45,7 @@ def login_page():
     # Inisialisasi session_state untuk menyimpan kredensial
     if "credentials" not in st.session_state:
         st.session_state["credentials"] = {
-            "algortima": "algoritma",
+            "algoritma": "algoritma",
             "hilmi": "hilmi",
             "farel": "farel",
             "saskia": "saskia",
