@@ -38,7 +38,7 @@ def display_book(book):
 # Fungsi login
 def login_page():
     st.title("Silahkan Login")
-    st.image("https://www.google.com/imgres?q=polnep&imgurl=https%3A%2F%2Fsmkn1jasel.sch.id%2Fgambar%2Fartikel%2FPolnep.jpg&imgrefurl=https%3A%2F%2Fsmkn1jasel.sch.id%2Fartikel%2Finformasi-dan-sejarah-singkat-politeknik-negeri-pontianak-polnep&docid=36DbggNWBbwDyM&tbnid=SKYQm9v7FxuV3M&vet=12ahUKEwjSud3Ew7WKAxX7qWMGHUlLCLYQM3oFCIEBEAA..i&w=1280&h=650&hcb=2&ved=2ahUKEwjSud3Ew7WKAxX7qWMGHUlLCLYQM3oFCIEBEAA", caption = "gedung polnep", use_container_width = True)
+    #st.image("https://www.google.com/imgres?q=polnep&imgurl=https%3A%2F%2Fsmkn1jasel.sch.id%2Fgambar%2Fartikel%2FPolnep.jpg&imgrefurl=https%3A%2F%2Fsmkn1jasel.sch.id%2Fartikel%2Finformasi-dan-sejarah-singkat-politeknik-negeri-pontianak-polnep&docid=36DbggNWBbwDyM&tbnid=SKYQm9v7FxuV3M&vet=12ahUKEwjSud3Ew7WKAxX7qWMGHUlLCLYQM3oFCIEBEAA..i&w=1280&h=650&hcb=2&ved=2ahUKEwjSud3Ew7WKAxX7qWMGHUlLCLYQM3oFCIEBEAA", caption = "gedung polnep", use_container_width = True)
     # Inisialisasi session_state untuk menyimpan kredensial
     if "credentials" not in st.session_state:
         st.session_state["credentials"] = {
@@ -116,25 +116,40 @@ def main():
                 st.table(df)  # Menampilkan dalam bentuk tabel
             else:
                 st.warning("Buku tidak ditemukan.")
-            
-            # Menampilkan hasil dalam bentuk tabel jika ada hasil
-            #if results:
-             #   for book in results:
-              #      display_book(book)
-            #else:
-             #   st.warning("Buku tidak ditemukan.")
 
     elif choice == "Tampilkan Semua Buku":
-        st.subheader("Semua Buku")
+    st.subheader("Semua Buku")
 
-        if books:
-            total_books = len(books)
-            st.write(f"**Total Buku Tersedia: {total_books}**")
+    if books:
+        total_books = len(books)
+        st.write(f"**Total Buku Tersedia: {total_books}**")
 
-            for book in books:
-                display_book(book)
-        else:
-            st.warning("Tidak ada data buku yang tersedia.")
+        # Konversi list buku menjadi DataFrame pandas
+        df_books = pd.DataFrame(books)
+
+        # Jika kolom tertentu ada, lakukan format yang sesuai (misalnya Tahun, Jumlah Halaman, Nomor Buku)
+        if "Tahun" in df_books.columns:
+            df_books["Tahun"] = pd.to_numeric(df_books["Tahun"], errors="coerce").fillna(0).astype(int).replace(0, "")
+        if "Jumlah Halaman" in df_books.columns:
+            df_books["Jumlah Halaman"] = pd.to_numeric(df_books["Jumlah Halaman"], errors="coerce").fillna(0).astype(int).replace(0, "")
+        if "Nomor Buku" in df_books.columns:
+            df_books["Nomor Buku"] = pd.to_numeric(df_books["Nomor Buku"], errors="coerce").fillna(0).astype(int).replace(0, "")
+
+        # Menampilkan DataFrame sebagai tabel
+        st.table(df_books)
+    else:
+        st.warning("Tidak ada data buku yang tersedia.")   
+    #elif choice == "Tampilkan Semua Buku":
+     #   st.subheader("Semua Buku")
+
+      #  if books:
+       #     total_books = len(books)
+        #    st.write(f"**Total Buku Tersedia: {total_books}**")
+
+         #   for book in books:
+          #      display_book(book)
+        #else:
+         #   st.warning("Tidak ada data buku yang tersedia.")
 
     #new
     elif choice == "Tambah Buku":
