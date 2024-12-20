@@ -37,7 +37,7 @@ def display_book(book):
 
 # Fungsi login
 def login_page():
-    st.title("Login Portal Pencarian Buku")
+    st.title("Silahkan Login")
     # Inisialisasi session_state untuk menyimpan kredensial
     if "credentials" not in st.session_state:
         st.session_state["credentials"] = {
