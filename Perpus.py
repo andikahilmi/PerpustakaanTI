@@ -189,7 +189,9 @@ def main():
         st.subheader("Tentang Aplikasi")
         st.write("""
         Aplikasi ini adalah portal pencarian koleksi buku di perpustakaan Jurusan Elektro - Prodi Teknik Informatika.
-        Anda dapat mencari buku berdasarkan judul, penulis, atau tahun terbit, serta menampilkan semua koleksi buku yang tersedia.
+        Portal ini Terdiri dari 7 fitur, antara lain : Masuk, Mencari Buku, Tampilkan Semua Buku, Tambah Buku, Tentang Portal, Tim Penyusun, Dan keluar.
+        1. Login
+            
         """)
 
     elif choice == "Tim Penyusun":
