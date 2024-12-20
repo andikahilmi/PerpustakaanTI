@@ -118,27 +118,27 @@ def main():
                 st.warning("Buku tidak ditemukan.")
 
     elif choice == "Tampilkan Semua Buku":
-    st.subheader("Semua Buku")
+        st.subheader("Semua Buku")
 
-    if books:
-        total_books = len(books)
-        st.write(f"**Total Buku Tersedia: {total_books}**")
+        if books:
+            total_books = len(books)
+            st.write(f"**Total Buku Tersedia: {total_books}**")
 
-        # Konversi list buku menjadi DataFrame pandas
-        df_books = pd.DataFrame(books)
+            # Konversi list buku menjadi DataFrame pandas
+            df_books = pd.DataFrame(books)
 
-        # Jika kolom tertentu ada, lakukan format yang sesuai (misalnya Tahun, Jumlah Halaman, Nomor Buku)
-        if "Tahun" in df_books.columns:
-            df_books["Tahun"] = pd.to_numeric(df_books["Tahun"], errors="coerce").fillna(0).astype(int).replace(0, "")
-        if "Jumlah Halaman" in df_books.columns:
-            df_books["Jumlah Halaman"] = pd.to_numeric(df_books["Jumlah Halaman"], errors="coerce").fillna(0).astype(int).replace(0, "")
-        if "Nomor Buku" in df_books.columns:
-            df_books["Nomor Buku"] = pd.to_numeric(df_books["Nomor Buku"], errors="coerce").fillna(0).astype(int).replace(0, "")
+            # Jika kolom tertentu ada, lakukan format yang sesuai (misalnya Tahun, Jumlah Halaman, Nomor Buku)
+            if "Tahun" in df_books.columns:
+                df_books["Tahun"] = pd.to_numeric(df_books["Tahun"], errors="coerce").fillna(0).astype(int).replace(0, "")
+            if "Jumlah Halaman" in df_books.columns:
+                df_books["Jumlah Halaman"] = pd.to_numeric(df_books["Jumlah Halaman"], errors="coerce").fillna(0).astype(int).replace(0, "")
+            if "Nomor Buku" in df_books.columns:
+                df_books["Nomor Buku"] = pd.to_numeric(df_books["Nomor Buku"], errors="coerce").fillna(0).astype(int).replace(0, "")
 
-        # Menampilkan DataFrame sebagai tabel
-        st.table(df_books)
-    else:
-        st.warning("Tidak ada data buku yang tersedia.")   
+            # Menampilkan DataFrame sebagai tabel
+            st.table(df_books)
+        else:
+            st.warning("Tidak ada data buku yang tersedia.")   
     #elif choice == "Tampilkan Semua Buku":
      #   st.subheader("Semua Buku")
 
