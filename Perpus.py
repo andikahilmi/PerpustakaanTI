@@ -38,7 +38,7 @@ def display_book(book):
 # Fungsi login
 def login_page():
     st.title("Silahkan Login")
-    st.image("https://www.google.com/imgres?q=polnep&imgurl=https%3A%2F%2Fpolnep.ac.id%2Fuploads%2Fblog%2Fb8BCNweb4t.jpg&imgrefurl=https%3A%2F%2Fpolnep.ac.id%2Fblogitem%2Fprosesi-penyambutan-mahasiswa-baru-politeknik-negeri-pontianak&docid=xGfbvTUUk6m4ZM&tbnid=41RHSkI8g5hkuM&vet=12ahUKEwjSud3Ew7WKAxX7qWMGHUlLCLYQM3oECH0QAA..i&w=2364&h=1576&hcb=2&ved=2ahUKEwjSud3Ew7WKAxX7qWMGHUlLCLYQM3oECH0QAA", caption = "gedung polnep", use_container_width = True)
+    st.image("https://www.google.com/imgres?q=polnep&imgurl=https%3A%2F%2Fsmkn1jasel.sch.id%2Fgambar%2Fartikel%2FPolnep.jpg&imgrefurl=https%3A%2F%2Fsmkn1jasel.sch.id%2Fartikel%2Finformasi-dan-sejarah-singkat-politeknik-negeri-pontianak-polnep&docid=36DbggNWBbwDyM&tbnid=SKYQm9v7FxuV3M&vet=12ahUKEwjSud3Ew7WKAxX7qWMGHUlLCLYQM3oFCIEBEAA..i&w=1280&h=650&hcb=2&ved=2ahUKEwjSud3Ew7WKAxX7qWMGHUlLCLYQM3oFCIEBEAA", caption = "gedung polnep", use_container_width = True)
     # Inisialisasi session_state untuk menyimpan kredensial
     if "credentials" not in st.session_state:
         st.session_state["credentials"] = {
