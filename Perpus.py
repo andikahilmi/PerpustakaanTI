@@ -48,8 +48,8 @@ def login_page():
             "tanaya": "tanaya",
             "nir": "nir",
         }
-    username = st.text_input("Username")
-    password = st.text_input("Password", type="password")
+    username = st.text_input("Nama Pengguna")
+    password = st.text_input("Kata Sandi", type="password")
 
         # Tombol login
     if st.button("Login"):
@@ -189,7 +189,7 @@ if "logged_in" not in st.session_state:
 
 if st.session_state["logged_in"]:
     main ()
-    if st.sidebar.button("Logout"):
+    if st.sidebar.button("Keluar"):
         st.session_state.clear()  # Reset semua state
 else:
     login_page()
