@@ -39,6 +39,7 @@ def display_book(book):
 def login_page():
     st.title("Digital Library")
     st.write("Portal Pencarian Koleksi Buku di Perpustakaan Jurusan Teknik Elektro Politeknik Negeri Pontianak")
+    st.write("")
     st.write("Silahkan Login")
     #st.image("https://www.google.com/imgres?q=polnep&imgurl=https%3A%2F%2Fsmkn1jasel.sch.id%2Fgambar%2Fartikel%2FPolnep.jpg&imgrefurl=https%3A%2F%2Fsmkn1jasel.sch.id%2Fartikel%2Finformasi-dan-sejarah-singkat-politeknik-negeri-pontianak-polnep&docid=36DbggNWBbwDyM&tbnid=SKYQm9v7FxuV3M&vet=12ahUKEwjSud3Ew7WKAxX7qWMGHUlLCLYQM3oFCIEBEAA..i&w=1280&h=650&hcb=2&ved=2ahUKEwjSud3Ew7WKAxX7qWMGHUlLCLYQM3oFCIEBEAA", caption = "gedung polnep", use_container_width = True)
     # Inisialisasi session_state untuk menyimpan kredensial
