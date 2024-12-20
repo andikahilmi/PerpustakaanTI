@@ -192,25 +192,25 @@ def main():
         Portal ini Terdiri dari 7 fitur, antara lain : Masuk, Mencari Buku, Tampilkan Semua Buku, Tambah Buku, Tentang Portal, Tim Penyusun, Dan keluar.
         
         Fitur-Fitur Utama Portal :
-        1. Masuk :
+        1. Masuk :  
         Fitur ini memungkinkan pengguna untuk masuk ke sistem dengan akun terdaftar guna mengakses semua layanan yang tersedia.
         
-        2. Mencari Buku :
+        2. Mencari Buku :  
         Pengguna dapat mencari buku berdasarkan judul, penulis, atau kata kunci tertentu untuk menemukan koleksi yang diinginkan.
         
-        3. Tampilkan Semua Buku :
+        3. Tampilkan Semua Buku :  
         Fitur ini menampilkan daftar lengkap semua buku yang tersedia di perpustakaan dalam bentuk tabel yang rapi dan mudah dibaca.
         
-        4. Tambah Buku :
+        4. Tambah Buku :  
         Anda dapat menambahkan data buku baru ke dalam sistem dengan informasi lengkap seperti judul, penulis, tahun terbit, dan jumlah halaman.
         
-        5. Tentang Portal :
+        5. Tentang Portal :  
         Berisi informasi tentang tujuan dan manfaat dari portal ini sebagai layanan pendukung akademik di Jurusan Elektro - Prodi Teknik Informatika.
         
-        6. Tim Penyusun :
+        6. Tim Penyusun :  
         Menampilkan informasi tentang tim pengembang yang telah membuat dan mengelola portal ini.
         
-        7. Keluar :
+        7. Keluar :  
         Fitur ini digunakan untuk keluar dari portal dengan aman dan mengakhiri sesi pengguna.
         """)
 
