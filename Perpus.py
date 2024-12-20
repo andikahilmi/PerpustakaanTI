@@ -97,7 +97,7 @@ def main():
                     
         #Menjumlahkan buku yang di temukan    
             total_found = len(results)
-            st.write(f"Total buku ditemukan: {total_found}")
+            st.write(f"Hasil Pencarian Buku ditemukan Sebanyak : {total_found} Judul")
 
             # Menampilkan hasil dalam bentuk tabel jika ada hasil
             if results:
