@@ -52,7 +52,7 @@ def login_page():
     password = st.text_input("Kata Sandi", type="password")
 
         # Tombol login
-    if st.button("Login"):
+    if st.button("Masuk"):
         credentials = st.session_state["credentials"]
         if username in credentials and password == credentials[username]:
             st.session_state["logged_in"] = True
