@@ -75,7 +75,7 @@ def main():
     search_option =""
 
     if choice == "Cari Buku":
-        st.subheader("Cari Buku")
+        st.subheader("Silahkan Pilih Katagori untuk melakukan pencarian buku")
 
         # Pilihan metode pencarian
         search_option = st.radio("Cari berdasarkan:", ["Judul", "Penulis", "Tahun Terbit"])
