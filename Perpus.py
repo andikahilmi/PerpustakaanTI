@@ -62,8 +62,8 @@ def login_page():
     
 # Fungsi utama aplikasi Streamlit
 def main():
-    st.title("-Portal Pencarian Koleksi Buku di  Perpustakaan Jurusan Elektro - Prodi Teknik Informatika")
-    
+    st.title("Selamat Datang di Portal Pencarian Koleksi Buku di Perpustakaan Jurusan Elektro")
+    st.write("Portal ini hanya menyediakan koleksi buku bidang teknik informatika")
     # Memuat data buku
     books = load_books()
 
