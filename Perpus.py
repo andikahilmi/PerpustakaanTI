@@ -213,7 +213,7 @@ def main():
     # Tombol untuk menghapus buku
         if st.button("Hapus Buku"):
             if book_title:  # Pastikan ada input Judul
-                delete_book_by_title(book_title)
+                delete_book(book_title)
             else:
                 st.error("Mohon masukkan judul buku yang ingin dihapus.")
     
