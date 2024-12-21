@@ -36,15 +36,21 @@ def display_book(book):
     st.write("---")  # Garis pembatas antar buku
 
 # Fungsi untuk menghapus buku dari file JSON
-def delete_book(book_index):
-    books = load_books()
-    if 0 <= book_index < len(books):
-        deleted_book = books.pop(book_index)
+def delete_book(book_title):
+    books = load_books()  # Memuat data buku
+    book_to_delete = None
+    for book in books:
+        if book['Judul'].lower() == book_title.lower():  # Mencocokkan Judul
+            book_to_delete = book
+            break
+
+    if book_to_delete:
+        books.remove(book_to_delete)  # Menghapus buku yang ditemukan
         with open("buku.json", "w") as file:
-            json.dump(books, file, indent=4)
-        st.success(f"Buku '{deleted_book['Judul']}' berhasil dihapus.")
+            json.dump(books, file, indent=4)  # Menyimpan perubahan ke file
+        st.success(f"Buku '{book_to_delete['Judul']}' berhasil dihapus.")
     else:
-        st.error("Indeks buku tidak valid.")
+        st.error(f"Buku dengan judul '{book_title}' tidak ditemukan.")
 
 # Fungsi login
 def login_page():
@@ -198,12 +204,17 @@ def main():
                         "Nomor Buku": nomor,
                     }
                     save_book(new_book)
+                    
     elif choice == "Hapus Buku" and st.session_state.get("is_admin"):
         st.subheader("Hapus Buku")
-        book_index = st.number_input("Masukkan Indeks Buku yang ingin dihapus", min_value=0, max_value=len(books)-1)
-        
-        if st.button("Hapus Buku"):
-            delete_book(book_index)
+
+    # Opsi untuk memilih cara penghapusan
+        delete_option = st.radio("Pilih cara menghapus buku", ["Berdasarkan Judul", "Berdasarkan ISBN"])
+        delete_option == "Berdasarkan Judul":
+            book_title = st.text_input("Masukkan Judul Buku yang ingin dihapus")
+            if st.button("Hapus Buku"):
+                delete_book_(book_title)
+    
             
     elif choice == "Tentang Aplikasi":
         st.subheader("Tentang Aplikasi")
