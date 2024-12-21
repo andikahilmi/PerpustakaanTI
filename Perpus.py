@@ -207,9 +207,8 @@ def main():
                     
     elif choice == "Hapus Buku" and st.session_state.get("is_admin"):
         st.subheader("Hapus Buku")
-
     # Opsi untuk memilih cara penghapusan
-        delete_option = st.radio("Pilih cara menghapus buku", ["Berdasarkan Judul", "Berdasarkan ISBN"])
+        #delete_option = st.radio("Pilih cara menghapus buku", ["Berdasarkan Judul", "Berdasarkan ISBN"])
         delete_option == "Berdasarkan Judul":
             book_title = st.text_input("Masukkan Judul Buku yang ingin dihapus")
             if st.button("Hapus Buku"):
