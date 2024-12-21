@@ -209,8 +209,7 @@ def main():
         st.subheader("Hapus Buku")
     # Opsi untuk memilih cara penghapusan
         #delete_option = st.radio("Pilih cara menghapus buku", ["Berdasarkan Judul", "Berdasarkan ISBN"])
-        delete_option == "Berdasarkan Judul":
-            book_title = st.text_input("Masukkan Judul Buku yang ingin dihapus")
+        book_title = st.text_input("Masukkan Judul Buku yang ingin dihapus")
             if st.button("Hapus Buku"):
                 delete_book_(book_title)
     
