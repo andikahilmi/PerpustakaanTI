@@ -198,7 +198,13 @@ def main():
                         "Nomor Buku": nomor,
                     }
                     save_book(new_book)
-    
+    elif choice == "Hapus Buku" and st.session_state.get("is_admin"):
+        st.subheader("Hapus Buku")
+        book_index = st.number_input("Masukkan Indeks Buku yang ingin dihapus", min_value=0, max_value=len(books)-1)
+        
+        if st.button("Hapus Buku"):
+            delete_book(book_index)
+            
     elif choice == "Tentang Aplikasi":
         st.subheader("Tentang Aplikasi")
         st.markdown("""
