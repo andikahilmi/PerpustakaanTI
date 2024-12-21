@@ -22,7 +22,7 @@ def save_book(new_book):
     with open("buku.json", "w") as file:
         json.dump(books, file, indent=4)
     st.success("Buku berhasil ditambahkan!")
-
+        
 # Fungsi untuk menampilkan informasi buku dengan format rapi
 def display_book(book):
     st.write(f"**Judul**: {book.get('Judul', 'N/A')}")
@@ -35,6 +35,17 @@ def display_book(book):
     st.write(f"**Nomor Buku**: {book.get('Nomor Buku', 'N/A')}")
     st.write("---")  # Garis pembatas antar buku
 
+# Fungsi untuk menghapus buku dari file JSON
+def delete_book(book_index):
+    books = load_books()
+    if 0 <= book_index < len(books):
+        deleted_book = books.pop(book_index)
+        with open("buku.json", "w") as file:
+            json.dump(books, file, indent=4)
+        st.success(f"Buku '{deleted_book['Judul']}' berhasil dihapus.")
+    else:
+        st.error("Indeks buku tidak valid.")
+
 # Fungsi login
 def login_page():
     st.title("Digital Library")
@@ -45,6 +56,7 @@ def login_page():
     # Inisialisasi session_state untuk menyimpan kredensial
     if "credentials" not in st.session_state:
         st.session_state["credentials"] = {
+            "admin": "admin123",
             "algoritma": "algoritma",
             "hilmi": "hilmi",
             "farel": "farel",
@@ -60,6 +72,8 @@ def login_page():
         credentials = st.session_state["credentials"]
         if username in credentials and password == credentials[username]:
             st.session_state["logged_in"] = True
+            st.session_state["username"] = username#
+            st.session_state["is_admin"] = (username == "admin")#
             st.success("Login berhasil!")
         else:
             st.error("Nama Pengguna atau Kata Sandi salah.")
@@ -69,11 +83,15 @@ def main():
     st.title("Selamat Datang!")
     st.write("Terimakasih Telah mengunjugi Portal Pencarian Koleksi Buku di Perpustakaan Jurusan Elektro Politeknik Negeri Pontianak. Portal ini hanya menyediakan koleksi buku bidang Komputer dan Informatika.")
     st.write("")
+
     # Memuat data buku
     books = load_books()
 
     # Menu aplikasi
     menu = ["Cari Buku", "Tampilkan Semua Buku","Tambah Buku", "Tentang Aplikasi", "Tim Penyusun"]
+    if st.session_state.get("is_admin"):
+        menu.append("Hapus Buku")
+        
     choice = st.sidebar.radio("Pilih Menu", menu)
 
     search_query = ""
@@ -81,15 +99,14 @@ def main():
 
     if choice == "Cari Buku":
         st.subheader("Silahkan Pilih Katagori untuk melakukan pencarian buku")
-
+        
         # Pilihan metode pencarian
         search_option = st.radio("Pilih Katagori :", ["Judul", "Penulis", "Tahun Terbit"])
-
+        
         # Input pencarian berdasarkan pilihan
         if search_option:
             search_query = st.text_input(f"Masukkan {search_option}:")
-        
-    
+            
         if st.button("Cari Buku"):
             if search_query:
         # Pencarian buku berdasarkan opsi
@@ -181,33 +198,6 @@ def main():
                         "Nomor Buku": nomor,
                     }
                     save_book(new_book)
-    #    st.subheader("Tambah Buku Baru")
-#
- #       judul = st.text_input("Judul")
-  #      penulis = st.text_input("Penulis")
-   #     tahun = st.text_input("Tahun Terbit")
-    #    penerbit = st.text_input("Penerbit")
-     #   jumlah_halaman = st.number_input("Jumlah Halaman", min_value=1)
-      #  isbn = st.text_input("ISBN")
-       # rak_buku = st.text_input("Rak Buku")
-#        nomor = st.text_input("Nomor Buku")
-    
- #       if st.button("Simpan Buku"):
-  #          if judul and penulis and tahun and penerbit:
-   #             new_book = {
-    #                "Judul": judul,
-     #               "Penulis": penulis,
-      #              "Tahun": tahun,
-       #             "Penerbit": penerbit,
-        #            "Jumlah Halaman": jumlah_halaman,
-         #           "ISBN": isbn,
-          #          "Rak Buku": rak_buku,
-           #         "Nomor Buku": nomor,
-            #    }
-             #   save_book(new_book)
-          #  else:
-           #     st.error("Mohon isi semua kolom yang diperlukan.")
-
     
     elif choice == "Tentang Aplikasi":
         st.subheader("Tentang Aplikasi")
