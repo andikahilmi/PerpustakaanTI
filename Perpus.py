@@ -86,9 +86,9 @@ def login_page():
     
 # Fungsi utama aplikasi Streamlit
 def main():
-    st.title("Selamat Datang!")
-    st.write("Terimakasih Telah mengunjugi Portal Pencarian Koleksi Buku di Perpustakaan Jurusan Elektro Politeknik Negeri Pontianak. Portal ini hanya menyediakan koleksi buku bidang Komputer dan Informatika.")
-    st.write("")
+    #st.title("Selamat Datang!")
+    #st.write("Terimakasih Telah mengunjugi Portal Pencarian Koleksi Buku di Perpustakaan Jurusan Elektro Politeknik Negeri Pontianak. Portal ini hanya menyediakan koleksi buku bidang Komputer dan Informatika.")
+    #st.write("")
 
     # Memuat data buku
     books = load_books()
@@ -104,6 +104,9 @@ def main():
     search_option =""
 
     if choice == "Cari Buku":
+        st.title("Selamat Datang!")
+        st.write("Terimakasih Telah mengunjugi Portal Pencarian Koleksi Buku di Perpustakaan Jurusan Elektro Politeknik Negeri Pontianak. Portal ini hanya menyediakan koleksi buku bidang Komputer dan Informatika.")
+        st.write("")
         st.subheader("Silahkan Pilih Katagori untuk melakukan pencarian buku")
         
         # Pilihan metode pencarian
