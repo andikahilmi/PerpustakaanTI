@@ -177,7 +177,7 @@ def main():
             tahun = st.text_input("Tahun Terbit")
             penerbit = st.text_input("Penerbit", max_chars=100)
             jumlah_halaman = st.number_input("Jumlah Halaman", min_value=1, step=1)
-            isbn = st.text_input("ISBN", max_chars=13)
+            isbn = st.text_input("ISBN")
             rak_buku = st.text_input("Rak Buku")
             nomor = st.text_input("Nomor Buku", max_chars=20)
 
@@ -190,8 +190,6 @@ def main():
                     st.error("Mohon isi semua kolom sebelum menyimpan buku.")
                 elif not tahun.isdigit() or len(tahun) != 4:
                     st.error("Tahun harus berupa angka dengan format 4 digit.")
-                elif not isbn.isdigit() or len(isbn) != 13:
-                    st.error("ISBN harus berupa 13 digit angka.")
                 else:
                     new_book = {
                         "Judul": judul,
