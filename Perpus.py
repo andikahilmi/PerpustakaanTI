@@ -143,46 +143,70 @@ def main():
             st.table(df_books)
         else:
             st.warning("Tidak ada data buku yang tersedia.")   
-    #elif choice == "Tampilkan Semua Buku":
-     #   st.subheader("Semua Buku")
-
-      #  if books:
-       #     total_books = len(books)
-        #    st.write(f"**Total Buku Tersedia: {total_books}**")
-
-         #   for book in books:
-          #      display_book(book)
-        #else:
-         #   st.warning("Tidak ada data buku yang tersedia.")
-
-    #new
+    ###new
+    # Form untuk menambahkan buku
     elif choice == "Tambah Buku":
         st.subheader("Tambah Buku Baru")
+        
+        with st.form("form_tambah_buku"):
+            judul = st.text_input("Judul", max_chars=100)
+            penulis = st.text_input("Penulis", max_chars=100)
+            tahun = st.text_input("Tahun Terbit")
+            penerbit = st.text_input("Penerbit", max_chars=100)
+            jumlah_halaman = st.number_input("Jumlah Halaman", min_value=1, step=1)
+            isbn = st.text_input("ISBN", max_chars=13)
+            rak_buku = st.text_input("Rak Buku")
+            nomor = st.text_input("Nomor Buku", max_chars=20)
 
-        judul = st.text_input("Judul")
-        penulis = st.text_input("Penulis")
-        tahun = st.text_input("Tahun Terbit")
-        penerbit = st.text_input("Penerbit")
-        jumlah_halaman = st.number_input("Jumlah Halaman", min_value=1)
-        isbn = st.text_input("ISBN")
-        rak_buku = st.text_input("Rak Buku")
-        nomor = st.text_input("Nomor Buku")
+            # Tombol submit dalam form
+            submitted = st.form_submit_button("Simpan Buku")
+
+            # Validasi semua kolom harus diisi
+            if submitted:
+                if not all([judul, penulis, tahun, penerbit, isbn, rak_buku, nomor]):
+                    st.error("Mohon isi semua kolom sebelum menyimpan buku.")
+                elif not tahun.isdigit() or len(tahun) != 4:
+                    st.error("Tahun harus berupa angka dengan format 4 digit.")
+                elif not isbn.isdigit() or len(isbn) != 13:
+                    st.error("ISBN harus berupa 13 digit angka.")
+                else:
+                    new_book = {
+                        "Judul": judul,
+                        "Penulis": penulis,
+                        "Tahun": tahun,
+                        "Penerbit": penerbit,
+                        "Jumlah Halaman": jumlah_halaman,
+                        "ISBN": isbn,
+                        "Rak Buku": rak_buku,
+                        "Nomor Buku": nomor,
+                    }
+                    save_book(new_book)
+    #    st.subheader("Tambah Buku Baru")
+#
+ #       judul = st.text_input("Judul")
+  #      penulis = st.text_input("Penulis")
+   #     tahun = st.text_input("Tahun Terbit")
+    #    penerbit = st.text_input("Penerbit")
+     #   jumlah_halaman = st.number_input("Jumlah Halaman", min_value=1)
+      #  isbn = st.text_input("ISBN")
+       # rak_buku = st.text_input("Rak Buku")
+#        nomor = st.text_input("Nomor Buku")
     
-        if st.button("Simpan Buku"):
-            if judul and penulis and tahun and penerbit:
-                new_book = {
-                    "Judul": judul,
-                    "Penulis": penulis,
-                    "Tahun": tahun,
-                    "Penerbit": penerbit,
-                    "Jumlah Halaman": jumlah_halaman,
-                    "ISBN": isbn,
-                    "Rak Buku": rak_buku,
-                    "Nomor Buku": nomor,
-                }
-                save_book(new_book)
-            else:
-                st.error("Mohon isi semua kolom yang diperlukan.")
+ #       if st.button("Simpan Buku"):
+  #          if judul and penulis and tahun and penerbit:
+   #             new_book = {
+    #                "Judul": judul,
+     #               "Penulis": penulis,
+      #              "Tahun": tahun,
+       #             "Penerbit": penerbit,
+        #            "Jumlah Halaman": jumlah_halaman,
+         #           "ISBN": isbn,
+          #          "Rak Buku": rak_buku,
+           #         "Nomor Buku": nomor,
+            #    }
+             #   save_book(new_book)
+          #  else:
+           #     st.error("Mohon isi semua kolom yang diperlukan.")
 
     
     elif choice == "Tentang Aplikasi":
