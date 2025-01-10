@@ -94,9 +94,10 @@ def main():
     books = load_books()
 
     # Menu aplikasi
-    menu = ["Cari Buku", "Tampilkan Semua Buku","Tambah Buku", "Tentang Aplikasi", "Tim Penyusun"]
+    menu = ["Cari Buku", "Tampilkan Semua Buku", "Tentang Aplikasi", "Tim Penyusun"]
     if st.session_state.get("is_admin"):
         menu.append("Hapus Buku")
+        menu.append("Tambah Buku")
         
     choice = st.sidebar.radio("Pilih Menu", menu)
 
