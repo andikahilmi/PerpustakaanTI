@@ -35,10 +35,11 @@ def display_book(book):
     st.write(f"**Nomor Buku**: {book.get('Nomor Buku', 'N/A')}")
     #st.write(f"**Sampul Buku**: {book.get('Sampul', 'N/A')}")
     # Menambahkan link setelah Nomor Buku
+    # Menambahkan link setelah Nomor Buku
     link = book.get('Link', '')  # Asumsikan ada kolom 'Link' pada dictionary book
     if link:
-        # Menggunakan markdown untuk membuat link bisa diklik
-        st.markdown(f"**Link Detail**: <a href='{link}' target='_blank'>Klik di sini</a>", unsafe_allow_html=True)
+        # Menggunakan tag <a> HTML dengan target='_blank' untuk membuka link di tab baru
+        st.markdown(f"**Link Detail**: <a href='{link}' target='_blank' style='color: blue;'>Klik di sini</a>", unsafe_allow_html=True)
     
     st.write("---")  # Garis pembatas antar buku
    
