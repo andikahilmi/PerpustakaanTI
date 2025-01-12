@@ -252,7 +252,7 @@ def main():
 
     elif choice == "Tim Penyusun":
         st.subheader("Tim Penyusun")
-        st.image("https://private-user-images.githubusercontent.com/190624672/402316206-bbc6776b-e89b-4d96-b608-054c5b5bf70e.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY2NTcxNzksIm5iZiI6MTczNjY1Njg3OSwicGF0aCI6Ii8xOTA2MjQ2NzIvNDAyMzE2MjA2LWJiYzY3NzZiLWU4OWItNGQ5Ni1iNjA4LTA1NGM1YjViZjcwZS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDExMlQwNDQxMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ODgwMmRjMzA3MmMwOGQ1ODVmNTVhNmU2NGFkZDRjMTU4ODUzNTI2ZWZhOWQzYjgzMmU1N2UwM2YxZWU3OTYwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.1_B5JGb6XXAeyHt6l_NQ8RyyHwLfOICL7BGdFiCfGlo")
+        st.image(https://github.com/andikahilmi/PerpustakaanTI/blob/main/img/WhatsApp%20Image%202025-01-09%20at%2020.33.33_67578581.jpg)
         st.markdown("""
         Aplikasi ini merupakan tugas dari kelompok 3 mata kuliah algoritma 
         yang berisikan 5 orang yaitu :
