@@ -59,7 +59,7 @@ def login_page():
 <style>
 /* Atur background halaman */
 .stApp {
-    background-image: url("https://raw.githubusercontent.com/andikahilmi/PerpustakaanTI/main/img/bg.jpg");
+    background-image: url("https://raw.githubusercontent.com/andikahilmi/PerpustakaanTI/main/img/bgg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
