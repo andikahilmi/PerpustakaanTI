@@ -56,29 +56,29 @@ def delete_book(book_title):
 def login_page():
         # CSS untuk menambahkan background
     page_bg_img = '''
-<style>
-/* Atur background halaman */
-.stApp {
-    background-image: url("https://raw.githubusercontent.com/andikahilmi/PerpustakaanTI/main/img/bgg.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    height: auto;
-}
-
-/* Tambahkan media query untuk perangkat kecil */
-@media screen and (max-width: 768px) {
+    <style>
+    /* Atur background halaman */
     .stApp {
-        background-size: contain;
-        background-attachment: scroll;
+        background-image: url("https://raw.githubusercontent.com/andikahilmi/PerpustakaanTI/main/img/bgg.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        height: auto;
     }
-}
-</style>
-'''
+    
+    /* Tambahkan media query untuk perangkat kecil */
+    @media screen and (max-width: 768px) {
+        .stApp {
+            background-size: contain;
+            background-attachment: scroll;
+        }
+    }
+    </style>
+    '''
     
     st.title("Digital Library")
     st.write("Portal Pencarian Koleksi Buku di Perpustakaan Jurusan Teknik Elektro Politeknik Negeri Pontianak")
