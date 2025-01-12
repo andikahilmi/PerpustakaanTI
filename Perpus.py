@@ -79,6 +79,8 @@ def login_page():
     }
     </style>
     '''
+        # Memasukkan CSS ke dalam aplikasi Streamlit
+    st.markdown(page_bg_img, unsafe_allow_html=True)
     
     st.title("Digital Library")
     st.write("Portal Pencarian Koleksi Buku di Perpustakaan Jurusan Teknik Elektro Politeknik Negeri Pontianak")
