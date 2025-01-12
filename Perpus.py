@@ -57,79 +57,68 @@ def login_page():
         # CSS untuk menambahkan background
     page_bg_img = '''
     <style>
-/* Background halaman */
-.stApp {
-    background-image: url("https://raw.githubusercontent.com/andikahilmi/PerpustakaanTI/main/img/bg.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    color: white;
-}
+    /* Background halaman */
+    .stApp {
+        background-image: url("https://raw.githubusercontent.com/andikahilmi/PerpustakaanTI/main/img/bg.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        color: white;
+    }
 
-/* Kotak form */
-.login-box {
-    background-color: rgba(255, 255, 255, 0.9); /* Warna putih dengan transparansi */
-    border-radius: 15px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
-    padding: 30px;
-    width: 350px;
-    text-align: center;
-}
+    /* Kotak form */
+    .login-box {
+        background-color: rgba(255, 255, 255, 0.9); /* Warna putih dengan transparansi */
+        border-radius: 15px;
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+        padding: 30px;
+        width: 350px;
+        text-align: center;
+    }
+    
+    .login-box h1 {
+        color: #333; /* Warna teks judul */
+        margin-bottom: 20px;
+    }
+    
+    .login-box input {
+        width: 90%;
+        padding: 10px;
+        margin: 10px 0;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
 
-.login-box h1 {
-    color: #333; /* Warna teks judul */
-    margin-bottom: 20px;
-}
-
-.login-box input {
-    width: 90%;
-    padding: 10px;
-    margin: 10px 0;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
-
-.login-box button {
-    background-color: #007bff;
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    width: 90%;
-}
-
-.login-box button:hover {
-    background-color: #0056b3;
-}
-
-.login-box p {
-    margin-top: 10px;
-    color: #555;
-    font-size: 12px;
-}
-</style>
-'''
-
-# Tambahkan CSS ke Streamlit
-st.markdown(page_bg_img, unsafe_allow_html=True)
-
-# Konten dalam form
-st.markdown(
+    .login-box button {
+        background-color: #007bff;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        width: 90%;
+    }
+    
+    .login-box button:hover {
+        background-color: #0056b3;
+    }
+    
+    .login-box p {
+        margin-top: 10px;
+        color: #555;
+        font-size: 12px;
+    }
+    </style>
     '''
-    <div class="login-box">
-        <h1>Sign In</h1>
-        <input type="text" placeholder="Username">
-        <input type="password" placeholder="Password">
-        <button>Sign In</button>
-        <p>Not a member? <a href="#" style="color: #007bff;">Sign up now</a></p>
-    </div>
-    ''',
-    unsafe_allow_html=True
+
+    # Tambahkan CSS ke Streamlit
+    st.markdown(page_bg_img, unsafe_allow_html=True)
+
+
     
     st.title("Digital Library")
     st.write("Portal Pencarian Koleksi Buku di Perpustakaan Jurusan Teknik Elektro Politeknik Negeri Pontianak")
