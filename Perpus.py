@@ -70,13 +70,6 @@ def login_page():
         height: auto;
     }
     
-    /* Tambahkan media query untuk perangkat kecil */
-    @media screen and (max-width: 768px) {
-        .stApp {
-            background-size: contain;
-            background-attachment: scroll;
-        }
-    }
     </style>
     '''
         # Memasukkan CSS ke dalam aplikasi Streamlit
