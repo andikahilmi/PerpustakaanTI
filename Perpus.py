@@ -66,65 +66,19 @@ def login_page():
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    min-height: 100vh;
+    height: auto;
 }
 
-/* Kotak login */
-.login-box {
-    background-color: rgba(255, 255, 255, 0.9); /* Warna putih transparan */
-    border-radius: 15px; /* Sudut melengkung */
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Bayangan */
-    padding: 30px;
-    width: 350px;
-    text-align: center;
-    color: #333; /* Warna teks */
+/* Tambahkan media query untuk perangkat kecil */
+@media screen and (max-width: 768px) {
+    .stApp {
+        background-size: contain;
+        background-attachment: scroll;
+    }
 }
-
-.login-box input {
-    width: 90%;
-    padding: 10px;
-    margin: 10px 0;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
-
-.login-box button {
-    background-color: #007bff;
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    width: 90%;
-    font-size: 16px;
-}
-
-.login-box button:hover {
-    background-color: #0056b3;
-}
-
 </style>
 '''
-
-# Tambahkan CSS ke halaman
-st.markdown(page_bg_img, unsafe_allow_html=True)
-
-# Tambahkan div untuk form login
-st.markdown(
-    '''
-    <div class="login-box">
-        <h1>Login</h1>
-        <form>
-            <input type="text" placeholder="Nama Pengguna" required>
-            <input type="password" placeholder="Kata Sandi" required>
-            <button type="submit">Masuk</button>
-        </form>
-        <p><small>Lupa kata sandi? <a href="#" style="color: #007bff;">Klik disini</a></small></p>
-    </div>
-    ''',
-    unsafe_allow_html=True
-)
-
     
     st.title("Digital Library")
     st.write("Portal Pencarian Koleksi Buku di Perpustakaan Jurusan Teknik Elektro Politeknik Negeri Pontianak")
