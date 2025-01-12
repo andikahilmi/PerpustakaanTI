@@ -36,6 +36,13 @@ def display_book(book):
     #st.write(f"**Sampul Buku**: {book.get('Sampul', 'N/A')}")
     st.write("---")  # Garis pembatas antar buku
 
+        # Menambahkan link setelah Nomor Buku
+    link = book.get('Link', '')  # Asumsikan ada kolom 'Link' pada dictionary book
+    if link:
+        st.markdown(f"**Link Detail**: [Klik di sini]({link})", unsafe_allow_html=True)
+    
+    st.write("---")  # Garis pembatas antar buku
+    
 # Fungsi untuk menghapus buku dari file JSON
 def delete_book(book_title):
     books = load_books()  # Memuat data buku
