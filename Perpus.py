@@ -36,7 +36,7 @@ def display_book(book):
     #st.write(f"**Sampul Buku**: {book.get('Sampul', 'N/A')}")
     # Menambahkan link setelah Nomor Buku menggunakan Markdown
     # Mengambil link
-    link = book.get('Link Cover Buku', '')
+    link = book.get('Link', '')
     if link:
         # Menampilkan link menggunakan HTML dalam Markdown
         st.markdown(f"**Link Detail**: <a href='{link}' target='_blank' style='color: blue;'>Klik di sini</a>", unsafe_allow_html=True)
