@@ -91,7 +91,7 @@ def login_page():
 
     if "credentials" not in st.session_state:
         st.session_state["credentials"] = {
-            "admin": "admin123",
+            "admin": "hilmionly",
             "algoritma": "algoritma",
             "hilmi": "hilmi",
             "farel": "farel",
